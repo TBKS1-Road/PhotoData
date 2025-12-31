@@ -1,0 +1,80 @@
+System;Country;Name;Tier
+canab;CAN;Alberta Provincial Highways;3
+canbc;CAN;British Columbia Provincial Highways;3
+canmb;CAN;Manitoba Provincial Highways;3
+canmbw;CAN;Winnipeg Routes;4
+cannb;CAN;New Brunswick Provincial Highways;3
+cannl;CAN;Newfoundland & Labrador Provincial Highways;3
+canns;CAN;Nova Scotia Provincial Highways;3
+cannt;CAN;Northwest Territories Highways;3
+canon;CAN;Ontario Provincial Highways (King's Highways);3
+canonf;CAN;Ontario Provincial Freeways (400-series);2
+canons;CAN;Ontario Secondary Provincial Highways;4
+canpe;CAN;Prince Edward Island Provincial Highways;3
+canqc;CAN;Quebec Provincial Highways;3
+canqca;CAN;Quebec Autoroutes;2
+cansk;CAN;Saskatchewan Provincial Highways;3
+canskm;CAN;Saskatchewan Municipal Roads;4
+canskn;CAN;Saskatchewan Northern Secondary Roads;5
+cantch;CAN;Trans-Canada Highway;1
+canyk;CAN;Yukon Territory Highways;3
+usaak;USA;Alaska State Highways;3
+usaal;USA;Alabama State Highways;3
+usaar;USA;Arkansas State Highways;3
+usaaz;USA;Arizona State Highways;3
+usaca;USA;California State Highways;3
+usaco;USA;Colorado State Highways;3
+usact;USA;Connecticut State Highways;3
+usadc;USA;District of Columbia Highways;3
+usade;USA;Delaware State Highways;3
+usafl;USA;Florida State Highways;3
+usaga;USA;Georgia State Highways;3
+usahi;USA;Hawaii State Highways;3
+usai;USA;United States Interstate Highways;1
+usaia;USA;Iowa State Highways;3
+usaid;USA;Idaho State Highways;3
+usail;USA;Illinois State Highways;3
+usain;USA;Indiana State Highways;3
+usaks;USA;Kansas State Highways;3
+usaky;USA;Kentucky State Highways;3
+usala;USA;Louisiana State Highways;3
+usama;USA;Massachusetts State Highways;3
+usamd;USA;Maryland State Highways;3
+usame;USA;Maine State Highways;3
+usami;USA;Michigan State Highways;3
+usamn;USA;Minnesota State Highways;3
+usamo;USA;Missouri State Highways;3
+usams;USA;Mississippi State Highways;3
+usamt;USA;Montana Primary State Highways;3
+usamts;USA;Montana Secondary State Highways;4
+usanc;USA;North Carolina State Highways;3
+usand;USA;North Dakota State Highways;3
+usane;USA;Nebraska State Highways;3
+usanes;USA;Nebraska Spur and Link Roads;4
+usanh;USA;New Hampshire State Highways;3
+usanj;USA;New Jersey State Highways;3
+usanm;USA;New Mexico State Highways;3
+usanv;USA;Nevada State Highways;3
+usany;USA;New York State Highways;3
+usaoh;USA;Ohio State Highways;3
+usaok;USA;Oklahoma State Highways;3
+usaor;USA;Oregon State Highways;3
+usapa;USA;Pennsylvania State Highways;3
+usari;USA;Rhode Island State Highways;3
+usasc;USA;South Carolina State Highways;3
+usasd;USA;South Dakota State Highways;3
+usatn;USA;Tennessee State Highways;3
+usatx;USA;Texas State Highways;3
+usatxf;USA;Texas Farm & Ranch to Market Roads;5
+usatxfs;USA;Texas Farm & Ranch to Market Spur Roads;5
+usatxl;USA;Texas Loop Roads;4
+usatxr;USA;Texas Recreational Roads;5
+usatxs;USA;Texas Spur Roads;4
+usaus;USA;United States Numbered Highways;2
+usaut;USA;Utah State Highways;3
+usava;USA;Virginia State Highways;3
+usavt;USA;Vermont State Highways;3
+usawa;USA;Washington State Highways;3
+usawi;USA;Wisconsin State Highways;3
+usawv;USA;West Virginia State Highways;3
+usawy;USA;Wyoming State Highways;3
