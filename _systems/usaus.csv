@@ -14,7 +14,6 @@ usaus;PA;US1
 usaus;RI;US1
 usaus;SC;US1
 usaus;VA;US1
-usaus;ME;US1A
 usaus;ID;US2
 usaus;ME;US2
 usaus;MI;US2
@@ -26,7 +25,6 @@ usaus;NY;US2
 usaus;VT;US2
 usaus;WA;US2
 usaus;WI;US2
-usaus;ME;US2A
 usaus;MA;US3
 usaus;NH;US3
 usaus;NH;US4
@@ -98,7 +96,6 @@ usaus;MN;US14
 usaus;SD;US14
 usaus;WI;US14
 usaus;WY;US14
-usaus;WY;US14A
 usaus;MD;US15
 usaus;NC;US15
 usaus;NY;US15
@@ -139,8 +136,6 @@ usaus;OH;US20
 usaus;OR;US20
 usaus;PA;US20
 usaus;WY;US20
-usaus;NY;US20A
-usaus;OH;US20A
 usaus;NC;US21
 usaus;SC;US21
 usaus;VA;US21
@@ -205,7 +200,6 @@ usaus;IN;US31
 usaus;KY;US31
 usaus;MI;US31
 usaus;TN;US31
-usaus;TN;US31A
 usaus;KY;US31E
 usaus;TN;US31E
 usaus;KY;US31W
@@ -239,7 +233,6 @@ usaus;OH;US40
 usaus;PA;US40
 usaus;UT;US40
 usaus;WV;US40
-usaus;MD;US40A
 usaus;FL;US41
 usaus;GA;US41
 usaus;IL;US41
@@ -248,7 +241,6 @@ usaus;KY;US41
 usaus;MI;US41
 usaus;TN;US41
 usaus;WI;US41
-usaus;TN;US41A
 usaus;KY;US42
 usaus;OH;US42
 usaus;AL;US43
@@ -264,7 +256,6 @@ usaus;MI;US45
 usaus;MS;US45
 usaus;TN;US45
 usaus;WI;US45
-usaus;MS;US45A
 usaus;TN;US45E
 usaus;TN;US45W
 usaus;NJ;US46
@@ -390,7 +381,6 @@ usaus;NM;US70
 usaus;OK;US70
 usaus;TN;US70
 usaus;TX;US70
-usaus;TN;US70A
 usaus;TN;US70N
 usaus;TN;US70S
 usaus;AR;US71
@@ -596,7 +586,6 @@ usaus;WA;US197
 usaus;CA;US199
 usaus;OR;US199
 usaus;ME;US201
-usaus;ME;US201A
 usaus;CT;US202
 usaus;DE;US202
 usaus;MA;US202
