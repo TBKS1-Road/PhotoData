@@ -1,0 +1,323 @@
+region;route;county
+UT;I-15;Beaver
+UT;UT21;Beaver
+UT;UT130;Beaver
+UT;UT153;Beaver
+UT;UT160;Beaver
+UT;UT257;Beaver
+UT;I-15;Box Elder
+UT;I-84;Box Elder
+UT;US89;Box Elder
+UT;US91;Box Elder
+UT;UT13;Box Elder
+UT;UT30;Box Elder
+UT;UT38;Box Elder
+UT;UT42;Box Elder
+UT;UT81;Box Elder
+UT;UT82;Box Elder
+UT;UT83;Box Elder
+UT;UT90;Box Elder
+UT;UT102;Box Elder
+UT;UT126;Box Elder
+UT;UT240;Box Elder
+UT;US89;Cache
+UT;US91;Cache
+UT;UT23;Cache
+UT;UT30;Cache
+UT;UT39;Cache
+UT;UT61;Cache
+UT;UT101;Cache
+UT;UT142;Cache
+UT;UT165;Cache
+UT;UT200;Cache
+UT;UT218;Cache
+UT;UT243;Cache
+UT;UT252;Cache
+UT;US6;Carbon
+UT;US191;Carbon
+UT;UT10;Carbon
+UT;UT55;Carbon
+UT;UT96;Carbon
+UT;UT122;Carbon
+UT;UT123;Carbon
+UT;UT124;Carbon
+UT;UT139;Carbon
+UT;UT157;Carbon
+UT;UT264;Carbon
+UT;US191;Daggett
+UT;UT43;Daggett
+UT;UT44;Daggett
+UT;I-15;Davis
+UT;I-84;Davis
+UT;I-215;Davis
+UT;US89;Davis
+UT;UT37;Davis
+UT;UT60;Davis
+UT;UT67;Davis
+UT;UT68;Davis
+UT;UT93;Davis
+UT;UT103;Davis
+UT;UT105;Davis
+UT;UT106;Davis
+UT;UT107;Davis
+UT;UT108;Davis
+UT;UT109;Davis
+UT;UT110;Davis
+UT;UT126;Davis
+UT;UT127;Davis
+UT;UT193;Davis
+UT;UT225;Davis
+UT;UT227;Davis
+UT;UT232;Davis
+UT;UT273;Davis
+UT;US40;Duchesne
+UT;US191;Duchesne
+UT;UT35;Duchesne
+UT;UT87;Duchesne
+UT;UT121;Duchesne
+UT;UT208;Duchesne
+UT;I-70;Emery
+UT;US6;Emery
+UT;US50;Emery
+UT;US191;Emery
+UT;UT10;Emery
+UT;UT19;Emery
+UT;UT24;Emery
+UT;UT29;Emery
+UT;UT31;Emery
+UT;UT57;Emery
+UT;UT124;Emery
+UT;UT155;Emery
+UT;US89;Garfield
+UT;UT12;Garfield
+UT;UT20;Garfield
+UT;UT22;Garfield
+UT;UT63;Garfield
+UT;UT95;Garfield
+UT;UT143;Garfield
+UT;UT276;Garfield
+UT;I-70;Grand
+UT;US6;Grand
+UT;US50;Grand
+UT;US191;Grand
+UT;UT19;Grand
+UT;UT94;Grand
+UT;UT128;Grand
+UT;UT279;Grand
+UT;I-15;Iron
+UT;UT14;Iron
+UT;UT18;Iron
+UT;UT20;Iron
+UT;UT56;Iron
+UT;UT130;Iron
+UT;UT143;Iron
+UT;UT148;Iron
+UT;UT271;Iron
+UT;UT274;Iron
+UT;I-15;Juab
+UT;US6;Juab
+UT;UT28;Juab
+UT;UT36;Juab
+UT;UT54;Juab
+UT;UT78;Juab
+UT;UT132;Juab
+UT;US89;Kane
+UT;US89A;Kane
+UT;UT9;Kane
+UT;UT14;Kane
+UT;I-15;Millard
+UT;I-70;Millard
+UT;US6;Millard
+UT;US50;Millard
+UT;UT21;Millard
+UT;UT64;Millard
+UT;UT99;Millard
+UT;UT100;Millard
+UT;UT125;Millard
+UT;UT132;Millard
+UT;UT133;Millard
+UT;UT136;Millard
+UT;UT159;Millard
+UT;UT161;Millard
+UT;UT174;Millard
+UT;UT257;Millard
+UT;I-84;Morgan
+UT;UT65;Morgan
+UT;UT66;Morgan
+UT;UT167;Morgan
+UT;US89;Piute
+UT;UT22;Piute
+UT;UT24;Piute
+UT;UT25;Piute
+UT;UT62;Piute
+UT;UT153;Piute
+UT;US89;Rich
+UT;UT16;Rich
+UT;UT30;Rich
+UT;UT39;Rich
+UT;I-15;Salt Lake
+UT;I-80;Salt Lake
+UT;I-215;Salt Lake
+UT;US89;Salt Lake
+UT;UT48;Salt Lake
+UT;UT65;Salt Lake
+UT;UT67;Salt Lake
+UT;UT68;Salt Lake
+UT;UT71;Salt Lake
+UT;UT85;Salt Lake
+UT;UT111;Salt Lake
+UT;UT131;Salt Lake
+UT;UT140;Salt Lake
+UT;UT151;Salt Lake
+UT;UT152;Salt Lake
+UT;UT154;Salt Lake
+UT;UT171;Salt Lake
+UT;UT172;Salt Lake
+UT;UT173;Salt Lake
+UT;UT175;Salt Lake
+UT;UT186;Salt Lake
+UT;UT190;Salt Lake
+UT;UT201;Salt Lake
+UT;UT202;Salt Lake
+UT;UT209;Salt Lake
+UT;UT210;Salt Lake
+UT;UT266;Salt Lake
+UT;UT268;Salt Lake
+UT;UT269;Salt Lake
+UT;UT270;Salt Lake
+UT;UT282;Salt Lake
+UT;US163;San Juan
+UT;US191;San Juan
+UT;US491;San Juan
+UT;UT46;San Juan
+UT;UT95;San Juan
+UT;UT162;San Juan
+UT;UT211;San Juan
+UT;UT261;San Juan
+UT;UT262;San Juan
+UT;UT275;San Juan
+UT;UT276;San Juan
+UT;US89;Sanpete
+UT;UT28;Sanpete
+UT;UT31;Sanpete
+UT;UT116;Sanpete
+UT;UT117;Sanpete
+UT;UT132;Sanpete
+UT;UT137;Sanpete
+UT;UT256;Sanpete
+UT;UT264;Sanpete
+UT;I-70;Sevier
+UT;US50;Sevier
+UT;US89;Sevier
+UT;UT10;Sevier
+UT;UT24;Sevier
+UT;UT25;Sevier
+UT;UT62;Sevier
+UT;UT72;Sevier
+UT;UT76;Sevier
+UT;UT118;Sevier
+UT;UT119;Sevier
+UT;UT120;Sevier
+UT;UT256;Sevier
+UT;UT258;Sevier
+UT;UT260;Sevier
+UT;I-80;Summit
+UT;I-84;Summit
+UT;US40;Summit
+UT;US189;Summit
+UT;UT32;Summit
+UT;UT35;Summit
+UT;UT65;Summit
+UT;UT86;Summit
+UT;UT150;Summit
+UT;UT224;Summit
+UT;UT248;Summit
+UT;UT280;Summit
+UT;I-80;Tooele
+UT;UT36;Tooele
+UT;UT58;Tooele
+UT;UT73;Tooele
+UT;UT112;Tooele
+UT;UT138;Tooele
+UT;UT196;Tooele
+UT;UT199;Tooele
+UT;US40;Uintah
+UT;US191;Uintah
+UT;UT45;Uintah
+UT;UT88;Uintah
+UT;UT121;Uintah
+UT;UT149;Uintah
+UT;I-15;Utah
+UT;US6;Utah
+UT;US89;Utah
+UT;US189;Utah
+UT;UT51;Utah
+UT;UT52;Utah
+UT;UT68;Utah
+UT;UT73;Utah
+UT;UT74;Utah
+UT;UT75;Utah
+UT;UT77;Utah
+UT;UT85;Utah
+UT;UT92;Utah
+UT;UT96;Utah
+UT;UT114;Utah
+UT;UT115;Utah
+UT;UT129;Utah
+UT;UT135;Utah
+UT;UT141;Utah
+UT;UT144;Utah
+UT;UT145;Utah
+UT;UT147;Utah
+UT;UT156;Utah
+UT;UT164;Utah
+UT;UT176;Utah
+UT;UT178;Utah
+UT;UT180;Utah
+UT;UT194;Utah
+UT;UT198;Utah
+UT;UT241;Utah
+UT;UT265;Utah
+UT;US6;Wasatch
+UT;US40;Wasatch
+UT;US189;Wasatch
+UT;UT32;Wasatch
+UT;UT92;Wasatch
+UT;UT113;Wasatch
+UT;UT222;Wasatch
+UT;UT248;Wasatch
+UT;I-15;Washington
+UT;UT7;Washington
+UT;UT8;Washington
+UT;UT9;Washington
+UT;UT17;Washington
+UT;UT18;Washington
+UT;UT34;Washington
+UT;UT59;Washington
+UT;UT219;Washington
+UT;UT228;Washington
+UT;UT12;Wayne
+UT;UT24;Wayne
+UT;UT72;Wayne
+UT;UT95;Wayne
+UT;I-15;Weber
+UT;I-84;Weber
+UT;US89;Weber
+UT;UT26;Weber
+UT;UT37;Weber
+UT;UT39;Weber
+UT;UT53;Weber
+UT;UT60;Weber
+UT;UT79;Weber
+UT;UT97;Weber
+UT;UT104;Weber
+UT;UT108;Weber
+UT;UT126;Weber
+UT;UT134;Weber
+UT;UT158;Weber
+UT;UT167;Weber
+UT;UT168;Weber
+UT;UT203;Weber
+UT;UT204;Weber
+UT;UT226;Weber
+UT;UT235;Weber
