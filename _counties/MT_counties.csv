@@ -1,0 +1,457 @@
+region;route;county
+MT;I-15;Beaverhead
+MT;MT41;Beaverhead
+MT;MT43;Beaverhead
+MT;SR278;Beaverhead
+MT;SR324;Beaverhead
+MT;I-90;Big Horn
+MT;US87;Big Horn
+MT;US212;Big Horn
+MT;MT47;Big Horn
+MT;SR313;Big Horn
+MT;SR314;Big Horn
+MT;SR342;Big Horn
+MT;SR384;Big Horn
+MT;SR418;Big Horn
+MT;SR451;Big Horn
+MT;SR457;Big Horn
+MT;SR463;Big Horn
+MT;SR566;Big Horn
+MT;US2;Blaine
+MT;MT66;Blaine
+MT;SR240;Blaine
+MT;SR241;Blaine
+MT;SR338;Blaine
+MT;SR396;Blaine
+MT;SR529;Blaine
+MT;I-90;Broadwater
+MT;US12;Broadwater
+MT;US287;Broadwater
+MT;MT2;Broadwater
+MT;SR284;Broadwater
+MT;SR285;Broadwater
+MT;SR437;Broadwater
+MT;US212;Carbon
+MT;US310;Carbon
+MT;MT72;Carbon
+MT;MT78;Carbon
+MT;SR308;Carbon
+MT;SR421;Carbon
+MT;US212;Carter
+MT;MT7;Carter
+MT;MT323;Carter
+MT;SR277;Carter
+MT;SR326;Carter
+MT;SR328;Carter
+MT;SR544;Carter
+MT;I-15;Cascade
+MT;US87;Cascade
+MT;US89;Cascade
+MT;US191;Cascade
+MT;MT3;Cascade
+MT;MT68;Cascade
+MT;MT200;Cascade
+MT;SR225;Cascade
+MT;SR226;Cascade
+MT;SR227;Cascade
+MT;SR228;Cascade
+MT;SR330;Cascade
+MT;SR331;Cascade
+MT;SR427;Cascade
+MT;SR565;Cascade
+MT;US87;Chouteau
+MT;MT80;Chouteau
+MT;SR223;Chouteau
+MT;SR228;Chouteau
+MT;SR236;Chouteau
+MT;SR386;Chouteau
+MT;SR387;Chouteau
+MT;SR432;Chouteau
+MT;I-94;Custer
+MT;US12;Custer
+MT;MT59;Custer
+MT;SR320;Custer
+MT;SR332;Custer
+MT;SR489;Custer
+MT;MT5;Daniels
+MT;MT13;Daniels
+MT;SR248;Daniels
+MT;SR251;Daniels
+MT;SR511;Daniels
+MT;I-94;Dawson
+MT;MT16;Dawson
+MT;MT200;Dawson
+MT;SR254;Dawson
+MT;SR335;Dawson
+MT;SR467;Dawson
+MT;SR470;Dawson
+MT;I-90;Deer Lodge
+MT;MT1;Deer Lodge
+MT;MT43;Deer Lodge
+MT;MT48;Deer Lodge
+MT;SR273;Deer Lodge
+MT;SR441;Deer Lodge
+MT;SR569;Deer Lodge
+MT;US12;Fallon
+MT;MT7;Fallon
+MT;SR320;Fallon
+MT;SR322;Fallon
+MT;SR336;Fallon
+MT;SR493;Fallon
+MT;SR494;Fallon
+MT;US87;Fergus
+MT;US191;Fergus
+MT;MT3;Fergus
+MT;MT19;Fergus
+MT;MT21;Fergus
+MT;MT80;Fergus
+MT;MT81;Fergus
+MT;MT200;Fergus
+MT;SR207;Fergus
+MT;SR236;Fergus
+MT;SR237;Fergus
+MT;SR238;Fergus
+MT;SR426;Fergus
+MT;SR466;Fergus
+MT;SR547;Fergus
+MT;US2;Flathead
+MT;US93;Flathead
+MT;MT28;Flathead
+MT;MT35;Flathead
+MT;MT40;Flathead
+MT;MT82;Flathead
+MT;MT83;Flathead
+MT;SR206;Flathead
+MT;SR209;Flathead
+MT;SR317;Flathead
+MT;SR424;Flathead
+MT;SR486;Flathead
+MT;SR487;Flathead
+MT;SR503;Flathead
+MT;SR548;Flathead
+MT;I-90;Gallatin
+MT;US20;Gallatin
+MT;US191;Gallatin
+MT;US287;Gallatin
+MT;MT2;Gallatin
+MT;MT64;Gallatin
+MT;MT84;Gallatin
+MT;MT85;Gallatin
+MT;MT86;Gallatin
+MT;SR205;Gallatin
+MT;SR235;Gallatin
+MT;SR286;Gallatin
+MT;SR287;Gallatin
+MT;SR288;Gallatin
+MT;SR291;Gallatin
+MT;SR345;Gallatin
+MT;SR346;Gallatin
+MT;SR347;Gallatin
+MT;SR411;Gallatin
+MT;SR412;Gallatin
+MT;MT24;Garfield
+MT;MT59;Garfield
+MT;MT200;Garfield
+MT;SR245;Garfield
+MT;SR462;Garfield
+MT;SR543;Garfield
+MT;US2;Glacier
+MT;US89;Glacier
+MT;MT17;Glacier
+MT;MT49;Glacier
+MT;SR213;Glacier
+MT;SR214;Glacier
+MT;SR215;Glacier
+MT;SR358;Glacier
+MT;SR444;Glacier
+MT;SR464;Glacier
+MT;US12;Golden Valley
+MT;MT3;Golden Valley
+MT;SR238;Golden Valley
+MT;SR300;Golden Valley
+MT;I-90;Granite
+MT;US12;Granite
+MT;MT1;Granite
+MT;MT38;Granite
+MT;SR271;Granite
+MT;SR348;Granite
+MT;SR512;Granite
+MT;SR513;Granite
+MT;US2;Hill
+MT;US87;Hill
+MT;SR232;Hill
+MT;SR233;Hill
+MT;SR234;Hill
+MT;SR255;Hill
+MT;SR432;Hill
+MT;SR448;Hill
+MT;SR449;Hill
+MT;I-15;Jefferson
+MT;I-90;Jefferson
+MT;US287;Jefferson
+MT;MT2;Jefferson
+MT;MT41;Jefferson
+MT;MT55;Jefferson
+MT;MT69;Jefferson
+MT;SR282;Jefferson
+MT;SR284;Jefferson
+MT;SR359;Jefferson
+MT;SR399;Jefferson
+MT;SR422;Jefferson
+MT;SR518;Jefferson
+MT;US87;Judith Basin
+MT;MT3;Judith Basin
+MT;MT80;Judith Basin
+MT;MT200;Judith Basin
+MT;SR207;Judith Basin
+MT;SR239;Judith Basin
+MT;SR400;Judith Basin
+MT;SR427;Judith Basin
+MT;SR541;Judith Basin
+MT;SR551;Judith Basin
+MT;US93;Lake
+MT;MT28;Lake
+MT;MT35;Lake
+MT;MT83;Lake
+MT;MT200;Lake
+MT;SR211;Lake
+MT;SR212;Lake
+MT;SR352;Lake
+MT;SR354;Lake
+MT;SR559;Lake
+MT;I-15;Lewis and Clark
+MT;US12;Lewis and Clark
+MT;US287;Lewis and Clark
+MT;MT21;Lewis and Clark
+MT;MT200;Lewis and Clark
+MT;SR279;Lewis and Clark
+MT;SR280;Lewis and Clark
+MT;SR284;Lewis and Clark
+MT;SR430;Lewis and Clark
+MT;SR434;Lewis and Clark
+MT;SR435;Lewis and Clark
+MT;SR453;Lewis and Clark
+MT;SR518;Lewis and Clark
+MT;US2;Liberty
+MT;SR218;Liberty
+MT;SR223;Liberty
+MT;SR224;Liberty
+MT;SR409;Liberty
+MT;US2;Lincoln
+MT;US93;Lincoln
+MT;MT37;Lincoln
+MT;MT56;Lincoln
+MT;SR260;Lincoln
+MT;SR482;Lincoln
+MT;SR508;Lincoln
+MT;SR567;Lincoln
+MT;I-15;Madison
+MT;US287;Madison
+MT;MT41;Madison
+MT;MT55;Madison
+MT;MT64;Madison
+MT;MT84;Madison
+MT;MT87;Madison
+MT;MT287;Madison
+MT;SR249;Madison
+MT;SR283;Madison
+MT;SR357;Madison
+MT;SR359;Madison
+MT;SR422;Madison
+MT;MT13;McCone
+MT;MT24;McCone
+MT;MT200;McCone
+MT;SR201;McCone
+MT;SR252;McCone
+MT;SR253;McCone
+MT;SR467;McCone
+MT;SR528;McCone
+MT;US12;Meagher
+MT;US89;Meagher
+MT;SR259;Meagher
+MT;SR294;Meagher
+MT;SR360;Meagher
+MT;I-90;Mineral
+MT;MT135;Mineral
+MT;SR257;Mineral
+MT;SR507;Mineral
+MT;I-90;Missoula
+MT;US12;Missoula
+MT;US93;Missoula
+MT;MT83;Missoula
+MT;MT200;Missoula
+MT;SR210;Missoula
+MT;SR263;Missoula
+MT;SR474;Missoula
+MT;SR507;Missoula
+MT;US12;Musselshell
+MT;US87;Musselshell
+MT;SR244;Musselshell
+MT;SR310;Musselshell
+MT;SR381;Musselshell
+MT;SR500;Musselshell
+MT;I-90;Park
+MT;US89;Park
+MT;US191;Park
+MT;US212;Park
+MT;MT86;Park
+MT;SR540;Park
+MT;SR571;Park
+MT;US87;Petroleum
+MT;MT200;Petroleum
+MT;SR244;Petroleum
+MT;SR500;Petroleum
+MT;US2;Phillips
+MT;US191;Phillips
+MT;MT66;Phillips
+MT;SR204;Phillips
+MT;SR208;Phillips
+MT;SR243;Phillips
+MT;SR363;Phillips
+MT;I-15;Pondera
+MT;US89;Pondera
+MT;MT44;Pondera
+MT;SR218;Pondera
+MT;SR219;Pondera
+MT;SR358;Pondera
+MT;SR365;Pondera
+MT;SR366;Pondera
+MT;SR417;Pondera
+MT;SR534;Pondera
+MT;US212;Powder River
+MT;MT59;Powder River
+MT;SR391;Powder River
+MT;SR484;Powder River
+MT;SR544;Powder River
+MT;I-90;Powell
+MT;US12;Powell
+MT;MT141;Powell
+MT;MT200;Powell
+MT;SR271;Powell
+MT;I-94;Prairie
+MT;SR253;Prairie
+MT;SR340;Prairie
+MT;US93;Ravalli
+MT;MT38;Ravalli
+MT;MT43;Ravalli
+MT;SR203;Ravalli
+MT;SR269;Ravalli
+MT;SR370;Ravalli
+MT;SR373;Ravalli
+MT;SR473;Ravalli
+MT;SR531;Ravalli
+MT;MT16;Richland
+MT;MT23;Richland
+MT;MT200;Richland
+MT;MT201;Richland
+MT;SR201;Richland
+MT;SR202;Richland
+MT;SR261;Richland
+MT;SR480;Richland
+MT;US2;Roosevelt
+MT;MT13;Roosevelt
+MT;MT16;Roosevelt
+MT;MT25;Roosevelt
+MT;SR250;Roosevelt
+MT;SR251;Roosevelt
+MT;SR327;Roosevelt
+MT;SR344;Roosevelt
+MT;SR405;Roosevelt
+MT;SR480;Roosevelt
+MT;I-94;Rosebud
+MT;US12;Rosebud
+MT;US212;Rosebud
+MT;MT39;Rosebud
+MT;MT59;Rosebud
+MT;SR446;Rosebud
+MT;SR447;Rosebud
+MT;SR462;Rosebud
+MT;SR566;Rosebud
+MT;MT28;Sanders
+MT;MT56;Sanders
+MT;MT77;Sanders
+MT;MT135;Sanders
+MT;MT200;Sanders
+MT;SR212;Sanders
+MT;SR382;Sanders
+MT;SR471;Sanders
+MT;SR556;Sanders
+MT;MT5;Sheridan
+MT;MT16;Sheridan
+MT;SR258;Sheridan
+MT;SR350;Sheridan
+MT;SR374;Sheridan
+MT;SR516;Sheridan
+MT;SR417;Sheridan
+MT;SR517;Sheridan
+MT;SR573;Sheridan
+MT;I-15;Silver Bow
+MT;I-90;Silver Bow
+MT;I-115;Silver Bow
+MT;MT2;Silver Bow
+MT;MT41;Silver Bow
+MT;MT43;Silver Bow
+MT;MT55;Silver Bow
+MT;SR276;Silver Bow
+MT;SR393;Silver Bow
+MT;SR441;Silver Bow
+MT;I-90;Stillwater
+MT;MT78;Stillwater
+MT;SR302;Stillwater
+MT;SR306;Stillwater
+MT;SR419;Stillwater
+MT;SR421;Stillwater
+MT;I-90;Sweet Grass
+MT;US191;Sweet Grass
+MT;SR298;Sweet Grass
+MT;I-15;Teton
+MT;US89;Teton
+MT;US287;Teton
+MT;SR219;Teton
+MT;SR220;Teton
+MT;SR221;Teton
+MT;SR379;Teton
+MT;SR408;Teton
+MT;SR431;Teton
+MT;SR565;Teton
+MT;I-15;Toole
+MT;US2;Toole
+MT;MT67;Toole
+MT;SR214;Toole
+MT;SR215;Toole
+MT;SR343;Toole
+MT;SR366;Toole
+MT;SR417;Toole
+MT;SR552;Toole
+MT;I-94;Treasure
+MT;SR311;Treasure
+MT;SR384;Treasure
+MT;US2;Valley
+MT;MT24;Valley
+MT;MT42;Valley
+MT;MT117;Valley
+MT;SR246;Valley
+MT;SR248;Valley
+MT;SR438;Valley
+MT;SR537;Valley
+MT;US12;Wheatland
+MT;US191;Wheatland
+MT;MT3;Wheatland
+MT;SR297;Wheatland
+MT;I-94;Wilbaux
+MT;MT7;Wilbaux
+MT;SR261;Wilbaux
+MT;I-90;Yellowstone
+MT;I-94;Yellowstone
+MT;US87;Yellowstone
+MT;US212;Yellowstone
+MT;US310;Yellowstone
+MT;MT3;Yellowstone
+MT;MT47;Yellowstone
+MT;SR302;Yellowstone
+MT;SR310;Yellowstone
+MT;SR401;Yellowstone
+MT;SR416;Yellowstone
+MT;SR522;Yellowstone
+MT;SR532;Yellowstone
+MT;SR568;Yellowstone
