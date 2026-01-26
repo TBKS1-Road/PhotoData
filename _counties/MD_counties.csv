@@ -1,0 +1,639 @@
+region;route;county
+MD;I-68;Allegany
+MD;US40;Allegany
+MD;US220;Allegany
+MD;MD35;Allegany
+MD;MD36;Allegany
+MD;MD47;Allegany
+MD;MD49;Allegany
+MD;MD51;Allegany
+MD;MD53;Allegany
+MD;MD55;Allegany
+MD;MD61;Allegany
+MD;MD135;Allegany
+MD;MD144;Allegany
+MD;MD636;Allegany
+MD;MD638;Allegany
+MD;MD639;Allegany
+MD;MD658;Allegany
+MD;MD936;Allegany
+MD;MD956;Allegany
+MD;I-97;Anne Arundel
+MD;I-195;Anne Arundel
+MD;I-595;Anne Arundel
+MD;I-695;Anne Arundel
+MD;I-895;Anne Arundel
+MD;US50;Anne Arundel
+MD;US301;Anne Arundel
+MD;MD2;Anne Arundel
+MD;MD3;Anne Arundel
+MD;MD4;Anne Arundel
+MD;MD10;Anne Arundel
+MD;MD32;Anne Arundel
+MD;MD70;Anne Arundel
+MD;MD100;Anne Arundel
+MD;MD103;Anne Arundel
+MD;MD162;Anne Arundel
+MD;MD168;Anne Arundel
+MD;MD169;Anne Arundel
+MD;MD170;Anne Arundel
+MD;MD171;Anne Arundel
+MD;MD173;Anne Arundel
+MD;MD174;Anne Arundel
+MD;MD175;Anne Arundel
+MD;MD176;Anne Arundel
+MD;MD177;Anne Arundel
+MD;MD178;Anne Arundel
+MD;MD179;Anne Arundel
+MD;MD198;Anne Arundel
+MD;MD214;Anne Arundel
+MD;MD216;Anne Arundel
+MD;MD253;Anne Arundel
+MD;MD255;Anne Arundel
+MD;MD256;Anne Arundel
+MD;MD258;Anne Arundel
+MD;MD259;Anne Arundel
+MD;MD260;Anne Arundel
+MD;MD261;Anne Arundel
+MD;MD270;Anne Arundel
+MD;MD295;Anne Arundel
+MD;MD387;Anne Arundel
+MD;MD393;Anne Arundel
+MD;MD408;Anne Arundel
+MD;MD422;Anne Arundel
+MD;MD423;Anne Arundel
+MD;MD424;Anne Arundel
+MD;MD435;Anne Arundel
+MD;MD436;Anne Arundel
+MD;MD450;Anne Arundel
+MD;MD468;Anne Arundel
+MD;MD607;Anne Arundel
+MD;MD648;Anne Arundel
+MD;MD652;Anne Arundel
+MD;MD665;Anne Arundel
+MD;MD710;Anne Arundel
+MD;MD713;Anne Arundel
+MD;MD758;Anne Arundel
+MD;MD778;Anne Arundel
+MD;MD794;Anne Arundel
+MD;I-70;Baltimore County
+MD;I-83;Baltimore County
+MD;I-95;Baltimore County
+MD;I-195;Baltimore County
+MD;I-695;Baltimore County
+MD;I-795;Baltimore County
+MD;I-895;Baltimore County
+MD;US1;Baltimore County
+MD;US40;Baltimore County
+MD;MD7;Baltimore County
+MD;MD25;Baltimore County
+MD;MD26;Baltimore County
+MD;MD30;Baltimore County
+MD;MD41;Baltimore County
+MD;MD43;Baltimore County
+MD;MD45;Baltimore County
+MD;MD88;Baltimore County
+MD;MD91;Baltimore County
+MD;MD122;Baltimore County
+MD;MD125;Baltimore County
+MD;MD128;Baltimore County
+MD;MD129;Baltimore County
+MD;MD130;Baltimore County
+MD;MD131;Baltimore County
+MD;MD133;Baltimore County
+MD;MD134;Baltimore County
+MD;MD137;Baltimore County
+MD;MD138;Baltimore County
+MD;MD139;Baltimore County
+MD;MD140;Baltimore County
+MD;MD144;Baltimore County
+MD;MD145;Baltimore County
+MD;MD146;Baltimore County
+MD;MD147;Baltimore County
+MD;MD150;Baltimore County
+MD;MD151;Baltimore County
+MD;MD157;Baltimore County
+MD;MD158;Baltimore County
+MD;MD165;Baltimore County
+MD;MD166;Baltimore County
+MD;MD295;Baltimore County
+MD;MD372;Baltimore County
+MD;MD439;Baltimore County
+MD;MD542;Baltimore County
+MD;MD562;Baltimore County
+MD;MD587;Baltimore County
+MD;MD588;Baltimore County
+MD;MD648;Baltimore County
+MD;MD700;Baltimore County
+MD;MD702;Baltimore County
+MD;MD940;Baltimore County
+MD;I-70;City of Baltimore
+MD;I-83;City of Baltimore
+MD;I-95;City of Baltimore
+MD;I-395;City of Baltimore
+MD;I-695;City of Baltimore
+MD;I-895;City of Baltimore
+MD;US1;City of Baltimore
+MD;US40;City of Baltimore
+MD;MD2;City of Baltimore
+MD;MD25;City of Baltimore
+MD;MD26;City of Baltimore
+MD;MD41;City of Baltimore
+MD;MD45;City of Baltimore
+MD;MD129;City of Baltimore
+MD;MD139;City of Baltimore
+MD;MD140;City of Baltimore
+MD;MD144;City of Baltimore
+MD;MD147;City of Baltimore
+MD;MD150;City of Baltimore
+MD;MD151;City of Baltimore
+MD;MD171;City of Baltimore
+MD;MD173;City of Baltimore
+MD;MD295;City of Baltimore
+MD;MD372;City of Baltimore
+MD;MD542;City of Baltimore
+MD;MD648;City of Baltimore
+MD;MD2;Calvert
+MD;MD4;Calvert
+MD;MD231;Calvert
+MD;MD260;Calvert
+MD;MD261;Calvert
+MD;MD262;Calvert
+MD;MD263;Calvert
+MD;MD264;Calvert
+MD;MD265;Calvert
+MD;MD402;Calvert
+MD;MD497;Calvert
+MD;MD506;Calvert
+MD;MD508;Calvert
+MD;MD509;Calvert
+MD;MD521;Calvert
+MD;MD524;Calvert
+MD;MD760;Calvert
+MD;MD765;Calvert
+MD;MD16;Caroline
+MD;MD287;Caroline
+MD;MD302;Caroline
+MD;MD304;Caroline
+MD;MD306;Caroline
+MD;MD307;Caroline
+MD;MD311;Caroline
+MD;MD312;Caroline
+MD;MD313;Caroline
+MD;MD314;Caroline
+MD;MD315;Caroline
+MD;MD317;Caroline
+MD;MD318;Caroline
+MD;MD328;Caroline
+MD;MD331;Caroline
+MD;MD404;Caroline
+MD;MD454;Caroline
+MD;MD480;Caroline
+MD;MD485;Caroline
+MD;MD577;Caroline
+MD;MD578;Caroline
+MD;MD619;Caroline
+MD;MD817;Caroline
+MD;I-70;Carroll
+MD;US40;Carroll
+MD;MD26;Carroll
+MD;MD27;Carroll
+MD;MD30;Carroll
+MD;MD31;Carroll
+MD;MD32;Carroll
+MD;MD75;Carroll
+MD;MD77;Carroll
+MD;MD84;Carroll
+MD;MD86;Carroll
+MD;MD88;Carroll
+MD;MD91;Carroll
+MD;MD97;Carroll
+MD;MD140;Carroll
+MD;MD144;Carroll
+MD;MD194;Carroll
+MD;MD407;Carroll
+MD;MD482;Carroll
+MD;MD496;Carroll
+MD;MD800;Carroll
+MD;MD808;Carroll
+MD;MD832;Carroll
+MD;MD833;Carroll
+MD;MD851;Carroll
+MD;MD852;Carroll
+MD;I-95;Cecil
+MD;US1;Cecil
+MD;US40;Cecil
+MD;US222;Cecil
+MD;US301;Cecil
+MD;MD7;Cecil
+MD;MD213;Cecil
+MD;MD222;Cecil
+MD;MD267;Cecil
+MD;MD268;Cecil
+MD;MD272;Cecil
+MD;MD273;Cecil
+MD;MD274;Cecil
+MD;MD275;Cecil
+MD;MD276;Cecil
+MD;MD277;Cecil
+MD;MD279;Cecil
+MD;MD281;Cecil
+MD;MD282;Cecil
+MD;MD284;Cecil
+MD;MD285;Cecil
+MD;MD286;Cecil
+MD;MD299;Cecil
+MD;MD310;Cecil
+MD;MD316;Cecil
+MD;MD327;Cecil
+MD;MD342;Cecil
+MD;MD545;Cecil
+MD;MD591;Cecil
+MD;MD781;Cecil
+MD;MD824;Cecil
+MD;MD896;Cecil
+MD;US301;Charles
+MD;MD5;Charles
+MD;MD6;Charles
+MD;MD210;Charles
+MD;MD224;Charles
+MD;MD225;Charles
+MD;MD227;Charles
+MD;MD228;Charles
+MD;MD229;Charles
+MD;MD231;Charles
+MD;MD234;Charles
+MD;MD254;Charles
+MD;MD257;Charles
+MD;MD344;Charles
+MD;MD381;Charles
+MD;MD382;Charles
+MD;MD425;Charles
+MD;MD488;Charles
+MD;MD925;Charles
+MD;US50;Dorchester
+MD;MD14;Dorchester
+MD;MD16;Dorchester
+MD;MD307;Dorchester
+MD;MD313;Dorchester
+MD;MD318;Dorchester
+MD;MD331;Dorchester
+MD;MD335;Dorchester
+MD;MD336;Dorchester
+MD;MD341;Dorchester
+MD;MD343;Dorchester
+MD;MD392;Dorchester
+MD;MD750;Dorchester
+MD;I-70;Frederick
+MD;I-270;Frederick
+MD;US15;Frederick
+MD;US40;Frederick
+MD;US340;Frederick
+MD;MD17;Frederick
+MD;MD26;Frederick
+MD;MD28;Frederick
+MD;MD31;Frederick
+MD;MD75;Frederick
+MD;MD76;Frederick
+MD;MD77;Frederick
+MD;MD79;Frederick
+MD;MD80;Frederick
+MD;MD85;Frederick
+MD;MD140;Frederick
+MD;MD144;Frederick
+MD;MD180;Frederick
+MD;MD194;Frederick
+MD;MD355;Frederick
+MD;MD383;Frederick
+MD;MD464;Frederick
+MD;MD478;Frederick
+MD;MD491;Frederick
+MD;MD550;Frederick
+MD;MD806;Frederick
+MD;I-68;Garrett
+MD;US40;Garrett
+MD;US50;Garrett
+MD;US219;Garrett
+MD;MD38;Garrett
+MD;MD39;Garrett
+MD;MD42;Garrett
+MD;MD135;Garrett
+MD;MD219;Garrett
+MD;MD495;Garrett
+MD;MD546;Garrett
+MD;MD560;Garrett
+MD;MD669;Garrett
+MD;MD946;Garrett
+MD;I-95;Harford
+MD;US1;Harford
+MD;US40;Harford
+MD;MD7;Harford
+MD;MD22;Harford
+MD;MD23;Harford
+MD;MD24;Harford
+MD;MD132;Harford
+MD;MD136;Harford
+MD;MD138;Harford
+MD;MD146;Harford
+MD;MD147;Harford
+MD;MD152;Harford
+MD;MD155;Harford
+MD;MD156;Harford
+MD;MD159;Harford
+MD;MD161;Harford
+MD;MD165;Harford
+MD;MD439;Harford
+MD;MD440;Harford
+MD;MD462;Harford
+MD;MD490;Harford
+MD;MD543;Harford
+MD;MD623;Harford
+MD;MD624;Harford
+MD;MD646;Harford
+MD;MD715;Harford
+MD;MD755;Harford
+MD;MD763;Harford
+MD;MD924;Harford
+MD;I-70;Howard
+MD;I-95;Howard
+MD;I-895;Howard
+MD;US1;Howard
+MD;US29;Howard
+MD;US40;Howard
+MD;MD27;Howard
+MD;MD32;Howard
+MD;MD94;Howard
+MD;MD97;Howard
+MD;MD99;Howard
+MD;MD100;Howard
+MD;MD103;Howard
+MD;MD104;Howard
+MD;MD108;Howard
+MD;MD125;Howard
+MD;MD144;Howard
+MD;MD175;Howard
+MD;MD176;Howard
+MD;MD216;Howard
+MD;MD851;Howard
+MD;US301;Kent
+MD;MD20;Kent
+MD;MD21;Kent
+MD;MD213;Kent
+MD;MD288;Kent
+MD;MD289;Kent
+MD;MD290;Kent
+MD;MD291;Kent
+MD;MD292;Kent
+MD;MD297;Kent
+MD;MD298;Kent
+MD;MD299;Kent
+MD;MD313;Kent
+MD;MD330;Kent
+MD;MD444;Kent
+MD;MD445;Kent
+MD;MD446;Kent
+MD;MD514;Kent
+MD;MD561;Kent
+MD;MD566;Kent
+MD;MD674;Kent
+MD;I-270;Montgomery
+MD;I-370;Montgomery
+MD;I-495;Montgomery
+MD;US29;Montgomery
+MD;MD27;Montgomery
+MD;MD28;Montgomery
+MD;MD80;Montgomery
+MD;MD97;Montgomery
+MD;MD107;Montgomery
+MD;MD108;Montgomery
+MD;MD109;Montgomery
+MD;MD112;Montgomery
+MD;MD114;Montgomery
+MD;MD115;Montgomery
+MD;MD117;Montgomery
+MD;MD118;Montgomery
+MD;MD119;Montgomery
+MD;MD121;Montgomery
+MD;MD124;Montgomery
+MD;MD182;Montgomery
+MD;MD185;Montgomery
+MD;MD186;Montgomery
+MD;MD187;Montgomery
+MD;MD188;Montgomery
+MD;MD189;Montgomery
+MD;MD190;Montgomery
+MD;MD191;Montgomery
+MD;MD192;Montgomery
+MD;MD193;Montgomery
+MD;MD195;Montgomery
+MD;MD198;Montgomery
+MD;MD200;Montgomery
+MD;MD320;Montgomery
+MD;MD355;Montgomery
+MD;MD384;Montgomery
+MD;MD390;Montgomery
+MD;MD396;Montgomery
+MD;MD410;Montgomery
+MD;MD547;Montgomery
+MD;MD586;Montgomery
+MD;MD614;Montgomery
+MD;MD650;Montgomery
+MD;I-95;Prince George's
+MD;I-295;Prince George's
+MD;I-495;Prince George's
+MD;I-595;Prince George's
+MD;US1;Prince George's
+MD;US50;Prince George's
+MD;US301;Prince George's
+MD;MD3;Prince George's
+MD;MD4;Prince George's
+MD;MD5;Prince George's
+MD;MD193;Prince George's
+MD;MD197;Prince George's
+MD;MD198;Prince George's
+MD;MD200;Prince George's
+MD;MD201;Prince George's
+MD;MD202;Prince George's
+MD;MD206;Prince George's
+MD;MD208;Prince George's
+MD;MD210;Prince George's
+MD;MD212;Prince George's
+MD;MD214;Prince George's
+MD;MD216;Prince George's
+MD;MD218;Prince George's
+MD;MD223;Prince George's
+MD;MD228;Prince George's
+MD;MD295;Prince George's
+MD;MD320;Prince George's
+MD;MD332;Prince George's
+MD;MD337;Prince George's
+MD;MD373;Prince George's
+MD;MD381;Prince George's
+MD;MD382;Prince George's
+MD;MD410;Prince George's
+MD;MD414;Prince George's
+MD;MD450;Prince George's
+MD;MD458;Prince George's
+MD;MD459;Prince George's
+MD;MD500;Prince George's
+MD;MD501;Prince George's
+MD;MD564;Prince George's
+MD;MD637;Prince George's
+MD;MD650;Prince George's
+MD;MD704;Prince George's
+MD;MD717;Prince George's
+MD;MD725;Prince George's
+MD;MD953;Prince George's
+MD;MD978;Prince George's
+MD;US50;Queen Anne's
+MD;US301;Queen Anne's
+MD;MD8;Queen Anne's
+MD;MD18;Queen Anne's
+MD;MD19;Queen Anne's
+MD;MD213;Queen Anne's
+MD;MD290;Queen Anne's
+MD;MD300;Queen Anne's
+MD;MD302;Queen Anne's
+MD;MD303;Queen Anne's
+MD;MD304;Queen Anne's
+MD;MD305;Queen Anne's
+MD;MD309;Queen Anne's
+MD;MD313;Queen Anne's
+MD;MD404;Queen Anne's
+MD;MD405;Queen Anne's
+MD;MD456;Queen Anne's
+MD;MD481;Queen Anne's
+MD;MD544;Queen Anne's
+MD;MD552;Queen Anne's
+MD;MD656;Queen Anne's
+MD;MD662;Queen Anne's
+MD;MD802;Queen Anne's
+MD;MD835A;Queen Anne's
+MD;MD4;St. Mary's
+MD;MD5;St. Mary's
+MD;MD6;St. Mary's
+MD;MD234;St. Mary's
+MD;MD235;St. Mary's
+MD;MD236;St. Mary's
+MD;MD237;St. Mary's
+MD;MD238;St. Mary's
+MD;MD239;St. Mary's
+MD;MD242;St. Mary's
+MD;MD243;St. Mary's
+MD;MD244;St. Mary's
+MD;MD245;St. Mary's
+MD;MD246;St. Mary's
+MD;MD247;St. Mary's
+MD;MD249;St. Mary's
+MD;MD470;St. Mary's
+MD;MD471;St. Mary's
+MD;MD472;St. Mary's
+MD;MD489;St. Mary's
+MD;MD520;St. Mary's
+MD;MD712;St. Mary's
+MD;MD944;St. Mary's
+MD;US13;Somerset
+MD;MD358;Somerset
+MD;MD361;Somerset
+MD;MD362;Somerset
+MD;MD363;Somerset
+MD;MD380;Somerset
+MD;MD388;Somerset
+MD;MD413;Somerset
+MD;MD460;Somerset
+MD;MD529;Somerset
+MD;MD627;Somerset
+MD;MD640;Somerset
+MD;MD667;Somerset
+MD;MD673;Somerset
+MD;MD675;Somerset
+MD;MD822;Somerset
+MD;US50;Talbot
+MD;MD33;Talbot
+MD;MD303;Talbot
+MD;MD309;Talbot
+MD;MD322;Talbot
+MD;MD328;Talbot
+MD;MD329;Talbot
+MD;MD331;Talbot
+MD;MD333;Talbot
+MD;MD334;Talbot
+MD;MD370;Talbot
+MD;MD404;Talbot
+MD;MD565;Talbot
+MD;MD579;Talbot
+MD;MD662;Talbot
+MD;I-68;Washington
+MD;I-70;Washington
+MD;I-81;Washington
+MD;US11;Washington
+MD;US40;Washington
+MD;US340;Washington
+MD;US522;Washington
+MD;MD34;Washington
+MD;MD56;Washington
+MD;MD57;Washington
+MD;MD58;Washington
+MD;MD60;Washington
+MD;MD62;Washington
+MD;MD63;Washington
+MD;MD64;Washington
+MD;MD65;Washington
+MD;MD66;Washington
+MD;MD67;Washington
+MD;MD68;Washington
+MD;MD77;Washington
+MD;MD144;Washington
+MD;MD418;Washington
+MD;MD491;Washington
+MD;MD494;Washington
+MD;MD550;Washington
+MD;MD615;Washington
+MD;MD632;Washington
+MD;MD910;Washington
+MD;US13;Wicomico
+MD;US50;Wicomico
+MD;MD12;Wicomico
+MD;MD54;Wicomico
+MD;MD313;Wicomico
+MD;MD346;Wicomico
+MD;MD347;Wicomico
+MD;MD348;Wicomico
+MD;MD349;Wicomico
+MD;MD350;Wicomico
+MD;MD352;Wicomico
+MD;MD353;Wicomico
+MD;MD354;Wicomico
+MD;MD374;Wicomico
+MD;MD513;Wicomico
+MD;MD670;Wicomico
+MD;MD675;Wicomico
+MD;MD815;Wicomico
+MD;US13;Worcester
+MD;US50;Worcester
+MD;US113;Worcester
+MD;MD12;Worcester
+MD;MD90;Worcester
+MD;MD346;Worcester
+MD;MD354;Worcester
+MD;MD359;Worcester
+MD;MD364;Worcester
+MD;MD365;Worcester
+MD;MD366;Worcester
+MD;MD367;Worcester
+MD;MD368;Worcester
+MD;MD371;Worcester
+MD;MD374;Worcester
+MD;MD375;Worcester
+MD;MD376;Worcester
+MD;MD377;Worcester
+MD;MD452;Worcester
+MD;MD528;Worcester
+MD;MD568;Worcester
+MD;MD575;Worcester
+MD;MD589;Worcester
+MD;MD610;Worcester
+MD;MD611;Worcester
+MD;MD707;Worcester
+MD;MD756;Worcester
+MD;MD818;Worcester
