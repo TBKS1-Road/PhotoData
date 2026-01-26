@@ -1,0 +1,609 @@
+region;route;county
+NM;I-25;Bernalillo
+NM;I-40;Bernalillo
+NM;NM14;Bernalillo
+NM;NM45;Bernalillo
+NM;NM47;Bernalillo
+NM;NM147;Bernalillo
+NM;NM165;Bernalillo
+NM;NM217;Bernalillo
+NM;NM306;Bernalillo
+NM;NM313;Bernalillo
+NM;NM314;Bernalillo
+NM;NM317;Bernalillo
+NM;NM333;Bernalillo
+NM;NM337;Bernalillo
+NM;NM345;Bernalillo
+NM;NM423;Bernalillo
+NM;NM448;Bernalillo
+NM;NM500;Bernalillo
+NM;NM528;Bernalillo
+NM;NM536;Bernalillo
+NM;NM556;Bernalillo
+NM;US60;Catron
+NM;US180;Catron
+NM;NM12;Catron
+NM;NM15;Catron
+NM;NM32;Catron
+NM;NM36;Catron
+NM;NM59;Catron
+NM;NM103;Catron
+NM;NM159;Catron
+NM;NM163;Catron
+NM;NM174;Catron
+NM;NM435;Catron
+NM;NM601;Catron
+NM;NM603;Catron
+NM;US70;Chaves
+NM;US82;Chaves
+NM;US285;Chaves
+NM;US380;Chaves
+NM;NM2;Chaves
+NM;NM13;Chaves
+NM;NM20;Chaves
+NM;NM24;Chaves
+NM;NM172;Chaves
+NM;NM190;Chaves
+NM;NM246;Chaves
+NM;NM249;Chaves
+NM;NM253;Chaves
+NM;NM254;Chaves
+NM;NM255;Chaves
+NM;NM256;Chaves
+NM;NM261;Chaves
+NM;NM409;Chaves
+NM;NM438;Chaves
+NM;I-40;Cibola
+NM;NM6;Cibola
+NM;NM36;Cibola
+NM;NM117;Cibola
+NM;NM122;Cibola
+NM;NM124;Cibola
+NM;NM279;Cibola
+NM;NM412;Cibola
+NM;NM547;Cibola
+NM;NM568;Cibola
+NM;NM605;Cibola
+NM;NM606;Cibola
+NM;NM615;Cibola
+NM;I-25;Colfax
+NM;US56;Colfax
+NM;US64;Colfax
+NM;US85;Colfax
+NM;US87;Colfax
+NM;US412;Colfax
+NM;NM21;Colfax
+NM;NM38;Colfax
+NM;NM39;Colfax
+NM;NM58;Colfax
+NM;NM72;Colfax
+NM;NM120;Colfax
+NM;NM127;Colfax
+NM;NM193;Colfax
+NM;NM434;Colfax
+NM;NM445;Colfax
+NM;NM468;Colfax
+NM;NM505;Colfax
+NM;NM526;Colfax
+NM;NM555;Colfax
+NM;NM569;Colfax
+NM;US60;Curry
+NM;US70;Curry
+NM;US84;Curry
+NM;NM19;Curry
+NM;NM77;Curry
+NM;NM89;Curry
+NM;NM106;Curry
+NM;NM108;Curry
+NM;NM209;Curry
+NM;NM224;Curry
+NM;NM241;Curry
+NM;NM245;Curry
+NM;NM267;Curry
+NM;NM268;Curry
+NM;NM275;Curry
+NM;NM288;Curry
+NM;NM289;Curry
+NM;NM311;Curry
+NM;NM312;Curry
+NM;NM348;Curry
+NM;NM467;Curry
+NM;NM469;Curry
+NM;NM523;Curry
+NM;US60;De Baca
+NM;US84;De Baca
+NM;US285;De Baca
+NM;NM20;De Baca
+NM;NM203;De Baca
+NM;NM212;De Baca
+NM;NM247;De Baca
+NM;NM252;De Baca
+NM;NM272;De Baca
+NM;NM294;De Baca
+NM;I-10;Dona Ana
+NM;I-25;Dona Ana
+NM;US70;Dona Ana
+NM;US85;Dona Ana
+NM;US180;Dona Ana
+NM;NM26;Dona Ana
+NM;NM28;Dona Ana
+NM;NM101;Dona Ana
+NM;NM136;Dona Ana
+NM;NM138;Dona Ana
+NM;NM140;Dona Ana
+NM;NM154;Dona Ana
+NM;NM157;Dona Ana
+NM;NM158;Dona Ana
+NM;NM182;Dona Ana
+NM;NM183;Dona Ana
+NM;NM184;Dona Ana
+NM;NM185;Dona Ana
+NM;NM186;Dona Ana
+NM;NM187;Dona Ana
+NM;NM188;Dona Ana
+NM;NM189;Dona Ana
+NM;NM192;Dona Ana
+NM;NM213;Dona Ana
+NM;NM225;Dona Ana
+NM;NM226;Dona Ana
+NM;NM227;Dona Ana
+NM;NM228;Dona Ana
+NM;NM273;Dona Ana
+NM;NM292;Dona Ana
+NM;NM320;Dona Ana
+NM;NM359;Dona Ana
+NM;NM372;Dona Ana
+NM;NM373;Dona Ana
+NM;NM374;Dona Ana
+NM;NM390;Dona Ana
+NM;NM404;Dona Ana
+NM;NM436;Dona Ana
+NM;NM460;Dona Ana
+NM;NM478;Dona Ana
+NM;NM498;Dona Ana
+NM;NM549;Dona Ana
+NM;US62;Eddy
+NM;US82;Eddy
+NM;US180;Eddy
+NM;US285;Eddy
+NM;NM2;Eddy
+NM;NM7;Eddy
+NM;NM31;Eddy
+NM;NM128;Eddy
+NM;NM137;Eddy
+NM;NM200;Eddy
+NM;NM216;Eddy
+NM;NM229;Eddy
+NM;NM243;Eddy
+NM;NM355;Eddy
+NM;NM357;Eddy
+NM;NM360;Eddy
+NM;NM438;Eddy
+NM;NM524;Eddy
+NM;NM529;Eddy
+NM;I-10;Grant
+NM;US70;Grant
+NM;US180;Grant
+NM;NM9;Grant
+NM;NM15;Grant
+NM;NM35;Grant
+NM;NM61;Grant
+NM;NM78;Grant
+NM;NM81;Grant
+NM;NM90;Grant
+NM;NM146;Grant
+NM;NM152;Grant
+NM;NM153;Grant
+NM;NM211;Grant
+NM;NM293;Grant
+NM;NM356;Grant
+NM;NM464;Grant
+NM;I-40;Guadelupe
+NM;US54;Guadelupe
+NM;US84;Guadelupe
+NM;US285;Guadelupe
+NM;NM91;Guadelupe
+NM;NM119;Guadelupe
+NM;NM129;Guadelupe
+NM;NM156;Guadelupe
+NM;NM219;Guadelupe
+NM;NM386;Guadelupe
+NM;NM451;Guadelupe
+NM;NM39;Harding
+NM;NM102;Harding
+NM;NM120;Harding
+NM;NM419;Harding
+NM;NM420;Harding
+NM;I-10;Hidalgo
+NM;US70;Hidalgo
+NM;NM9;Hidalgo
+NM;NM80;Hidalgo
+NM;NM81;Hidalgo
+NM;NM90;Hidalgo
+NM;NM92;Hidalgo
+NM;NM113;Hidalgo
+NM;NM145;Hidalgo
+NM;NM338;Hidalgo
+NM;NM464;Hidalgo
+NM;NM494;Hidalgo
+NM;NM533;Hidalgo
+NM;NM1113;Hidalgo
+NM;US62;Lea
+NM;US82;Lea
+NM;US180;Lea
+NM;US380;Lea
+NM;NM8;Lea
+NM;NM18;Lea
+NM;NM83;Lea
+NM;NM125;Lea
+NM;NM128;Lea
+NM;NM132;Lea
+NM;NM133;Lea
+NM;NM175;Lea
+NM;NM176;Lea
+NM;NM205;Lea
+NM;NM206;Lea
+NM;NM207;Lea
+NM;NM208;Lea
+NM;NM218;Lea
+NM;NM238;Lea
+NM;NM243;Lea
+NM;NM248;Lea
+NM;NM249;Lea
+NM;NM322;Lea
+NM;NM457;Lea
+NM;NM483;Lea
+NM;NM508;Lea
+NM;NM529;Lea
+NM;US54;Lincoln
+NM;US70;Lincoln
+NM;US285;Lincoln
+NM;US380;Lincoln
+NM;NM37;Lincoln
+NM;NM48;Lincoln
+NM;NM55;Lincoln
+NM;NM220;Lincoln
+NM;NM246;Lincoln
+NM;NM247;Lincoln
+NM;NM349;Lincoln
+NM;NM368;Lincoln
+NM;NM395;Lincoln
+NM;NM461;Lincoln
+NM;NM462;Lincoln
+NM;NM532;Lincoln
+NM;NM4;Los Alamos
+NM;NM501;Los Alamos
+NM;NM502;Los Alamos
+NM;I-10;Luna
+NM;US70;Luna
+NM;US180;Luna
+NM;NM9;Luna
+NM;NM11;Luna
+NM;NM26;Luna
+NM;NM27;Luna
+NM;NM61;Luna
+NM;NM143;Luna
+NM;NM198;Luna
+NM;NM377;Luna
+NM;NM418;Luna
+NM;NM427;Luna
+NM;NM549;Luna
+NM;I-40;McKinley
+NM;US491;McKinley
+NM;NM36;McKinley
+NM;NM53;McKinley
+NM;NM118;McKinley
+NM;NM122;McKinley
+NM;NM134;McKinley
+NM;NM264;McKinley
+NM;NM371;McKinley
+NM;NM400;McKinley
+NM;NM412;McKinley
+NM;NM509;McKinley
+NM;NM564;McKinley
+NM;NM566;McKinley
+NM;NM602;McKinley
+NM;NM605;McKinley
+NM;NM608;McKinley
+NM;NM609;McKinley
+NM;NM610;McKinley
+NM;NM612;McKinley
+NM;I-25;Mora
+NM;US85;Mora
+NM;NM94;Mora
+NM;NM97;Mora
+NM;NM105;Mora
+NM;NM120;Mora
+NM;NM161;Mora
+NM;NM271;Mora
+NM;NM434;Mora
+NM;NM442;Mora
+NM;NM446;Mora
+NM;NM450;Mora
+NM;NM518;Mora
+NM;NM569;Mora
+NM;US54;Otero
+NM;US70;Otero
+NM;US82;Otero
+NM;NM24;Otero
+NM;NM130;Otero
+NM;NM244;Otero
+NM;NM506;Otero
+NM;NM545;Otero
+NM;NM6563;Otero
+NM;I-40;Quay
+NM;US54;Quay
+NM;NM39;Quay
+NM;NM89;Quay
+NM;NM93;Quay
+NM;NM104;Quay
+NM;NM156;Quay
+NM;NM209;Quay
+NM;NM210;Quay
+NM;NM231;Quay
+NM;NM237;Quay
+NM;NM252;Quay
+NM;NM268;Quay
+NM;NM275;Quay
+NM;NM278;Quay
+NM;NM286;Quay
+NM;NM312;Quay
+NM;NM352;Quay
+NM;NM392;Quay
+NM;NM402;Quay
+NM;NM469;Quay
+NM;NM540;Quay
+NM;NM552;Quay
+NM;US64;Rio Arriba
+NM;US84;Rio Arriba
+NM;US285;Rio Arriba
+NM;US550;Rio Arriba
+NM;NM17;Rio Arriba
+NM;NM29;Rio Arriba
+NM;NM68;Rio Arriba
+NM;NM74;Rio Arriba
+NM;NM75;Rio Arriba
+NM;NM76;Rio Arriba
+NM;NM95;Rio Arriba
+NM;NM96;Rio Arriba
+NM;NM110;Rio Arriba
+NM;NM111;Rio Arriba
+NM;NM112;Rio Arriba
+NM;NM115;Rio Arriba
+NM;NM121;Rio Arriba
+NM;NM162;Rio Arriba
+NM;NM215;Rio Arriba
+NM;NM221;Rio Arriba
+NM;NM233;Rio Arriba
+NM;NM291;Rio Arriba
+NM;NM305;Rio Arriba
+NM;NM369;Rio Arriba
+NM;NM399;Rio Arriba
+NM;NM503;Rio Arriba
+NM;NM512;Rio Arriba
+NM;NM514;Rio Arriba
+NM;NM519;Rio Arriba
+NM;NM527;Rio Arriba
+NM;NM531;Rio Arriba
+NM;NM537;Rio Arriba
+NM;NM539;Rio Arriba
+NM;NM554;Rio Arriba
+NM;NM571;Rio Arriba
+NM;NM572;Rio Arriba
+NM;NM573;Rio Arriba
+NM;NM576;Rio Arriba
+NM;NM580;Rio Arriba
+NM;NM581;Rio Arriba
+NM;NM583;Rio Arriba
+NM;NM584;Rio Arriba
+NM;NM595;Rio Arriba
+NM;NM598;Rio Arriba
+NM;US60;Roosevelt
+NM;US70;Roosevelt
+NM;US84;Roosevelt
+NM;NM88;Roosevelt
+NM;NM89;Roosevelt
+NM;NM114;Roosevelt
+NM;NM202;Roosevelt
+NM;NM206;Roosevelt
+NM;NM235;Roosevelt
+NM;NM236;Roosevelt
+NM;NM258;Roosevelt
+NM;NM262;Roosevelt
+NM;NM267;Roosevelt
+NM;NM321;Roosevelt
+NM;NM330;Roosevelt
+NM;NM348;Roosevelt
+NM;NM458;Roosevelt
+NM;NM467;Roosevelt
+NM;NM480;Roosevelt
+NM;US64;San Juan
+NM;US160;San Juan
+NM;US491;San Juan
+NM;US550;San Juan
+NM;NM57;San Juan
+NM;NM134;San Juan
+NM;NM170;San Juan
+NM;NM173;San Juan
+NM;NM282;San Juan
+NM;NM371;San Juan
+NM;NM511;San Juan
+NM;NM516;San Juan
+NM;NM539;San Juan
+NM;NM574;San Juan
+NM;NM575;San Juan
+NM;NM597;San Juan
+NM;I-25;San Miguel
+NM;US84;San Miguel
+NM;US85;San Miguel
+NM;US285;San Miguel
+NM;NM3;San Miguel
+NM;NM34;San Miguel
+NM;NM39;San Miguel
+NM;NM50;San Miguel
+NM;NM63;San Miguel
+NM;NM65;San Miguel
+NM;NM94;San Miguel
+NM;NM104;San Miguel
+NM;NM105;San Miguel
+NM;NM129;San Miguel
+NM;NM144;San Miguel
+NM;NM223;San Miguel
+NM;NM250;San Miguel
+NM;NM266;San Miguel
+NM;NM276;San Miguel
+NM;NM281;San Miguel
+NM;NM283;San Miguel
+NM;NM329;San Miguel
+NM;NM386;San Miguel
+NM;NM419;San Miguel
+NM;NM432;San Miguel
+NM;NM433;San Miguel
+NM;NM451;San Miguel
+NM;NM484;San Miguel
+NM;NM518;San Miguel
+NM;I-25;Sandoval
+NM;US85;Sandoval
+NM;US550;Sandoval
+NM;NM4;Sandoval
+NM;NM14;Sandoval
+NM;NM16;Sandoval
+NM;NM22;Sandoval
+NM;NM96;Sandoval
+NM;NM126;Sandoval
+NM;NM165;Sandoval
+NM;NM197;Sandoval
+NM;NM290;Sandoval
+NM;NM313;Sandoval
+NM;NM315;Sandoval
+NM;NM347;Sandoval
+NM;NM448;Sandoval
+NM;NM473;Sandoval
+NM;NM485;Sandoval
+NM;NM528;Sandoval
+NM;NM537;Sandoval
+NM;I-25;Santa Fe
+NM;I-40;Santa Fe
+NM;US84;Santa Fe
+NM;US85;Santa Fe
+NM;US285;Santa Fe
+NM;NM4;Santa Fe
+NM;NM14;Santa Fe
+NM;NM16;Santa Fe
+NM;NM30;Santa Fe
+NM;NM41;Santa Fe
+NM;NM50;Santa Fe
+NM;NM76;Santa Fe
+NM;NM291;Santa Fe
+NM;NM300;Santa Fe
+NM;NM333;Santa Fe
+NM;NM344;Santa Fe
+NM;NM399;Santa Fe
+NM;NM466;Santa Fe
+NM;NM472;Santa Fe
+NM;NM475;Santa Fe
+NM;NM502;Santa Fe
+NM;NM503;Santa Fe
+NM;NM583;Santa Fe
+NM;NM592;Santa Fe
+NM;NM594;Santa Fe
+NM;NM599;Santa Fe
+NM;I-25;Sierra
+NM;US85;Sierra
+NM;NM1;Sierra
+NM;NM26;Sierra
+NM;NM27;Sierra
+NM;NM51;Sierra
+NM;NM59;Sierra
+NM;NM142;Sierra
+NM;NM152;Sierra
+NM;NM171;Sierra
+NM;NM177;Sierra
+NM;NM179;Sierra
+NM;NM181;Sierra
+NM;NM187;Sierra
+NM;NM195;Sierra
+NM;NM436;Sierra
+NM;NM546;Sierra
+NM;I-25;Socorro
+NM;US60;Socorro
+NM;US85;Socorro
+NM;US380;Socorro
+NM;NM1;Socorro
+NM;NM47;Socorro
+NM;NM52;Socorro
+NM;NM55;Socorro
+NM;NM107;Socorro
+NM;NM116;Socorro
+NM;NM163;Socorro
+NM;NM166;Socorro
+NM;NM169;Socorro
+NM;NM304;Socorro
+NM;NM525;Socorro
+NM;US64;Taos
+NM;US285;Taos
+NM;NM38;Taos
+NM;NM68;Taos
+NM;NM73;Taos
+NM;NM75;Taos
+NM;NM76;Taos
+NM;NM111;Taos
+NM;NM150;Taos
+NM;NM196;Taos
+NM;NM230;Taos
+NM;NM240;Taos
+NM;NM378;Taos
+NM;NM414;Taos
+NM;NM515;Taos
+NM;NM518;Taos
+NM;NM522;Taos
+NM;NM567;Taos
+NM;NM570;Taos
+NM;NM578;Taos
+NM;NM585;Taos
+NM;I-40;Torrance
+NM;US54;Torrance
+NM;US60;Torrance
+NM;US285;Torrance
+NM;NM3;Torrance
+NM;NM41;Torrance
+NM;NM42;Torrance
+NM;NM55;Torrance
+NM;NM131;Torrance
+NM;NM333;Torrance
+NM;NM337;Torrance
+NM;NM513;Torrance
+NM;NM542;Torrance
+NM;US56;Union
+NM;US64;Union
+NM;US87;Union
+NM;US412;Union
+NM;NM72;Union
+NM;NM102;Union
+NM;NM120;Union
+NM;NM325;Union
+NM;NM370;Union
+NM;NM402;Union
+NM;NM406;Union
+NM;NM410;Union
+NM;NM411;Union
+NM;NM417;Union
+NM;NM420;Union
+NM;NM421;Union
+NM;NM453;Union
+NM;NM455;Union
+NM;NM456;Union
+NM;NM538;Union
+NM;NM551;Union
+NM;NM562;Union
+NM;I-25;Valencia
+NM;US85;Valencia
+NM;NM6;Valencia
+NM;NM47;Valencia
+NM;NM109;Valencia
+NM;NM116;Valencia
+NM;NM263;Valencia
+NM;NM304;Valencia
+NM;NM309;Valencia
+NM;NM314;Valencia
+NM;NM346;Valencia
