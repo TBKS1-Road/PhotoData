@@ -1,0 +1,743 @@
+region;route;county
+MO;US63;Adair
+MO;MO3;Adair
+MO;MO6;Adair
+MO;MO11;Adair
+MO;MO149;Adair
+MO;MO157;Adair
+MO;I-29;Andrew
+MO;I-229;Andrew
+MO;US59;Andrew
+MO;US71;Andrew
+MO;US169;Andrew
+MO;MO48;Andrew
+MO;I-29;Atchinson
+MO;US59;Atchinson
+MO;US136;Atchinson
+MO;US275;Atchinson
+MO;MO46;Atchinson
+MO;MO111;Atchinson
+MO;US54;Audrain
+MO;MO15;Audrain
+MO;MO19;Audrain
+MO;MO22;Audrain
+MO;MO151;Audrain
+MO;US60;Barry
+MO;MO37;Barry
+MO;MO39;Barry
+MO;MO76;Barry
+MO;MO86;Barry
+MO;MO97;Barry
+MO;MO112;Barry
+MO;MO248;Barry
+MO;I-49;Barton
+MO;US71;Barton
+MO;US160;Barton
+MO;MO43;Barton
+MO;MO126;Barton
+MO;I-49;Bates
+MO;US71;Bates
+MO;MO18;Bates
+MO;MO52;Bates
+MO;US65;Benton
+MO;MO7;Benton
+MO;MO52;Benton
+MO;MO82;Benton
+MO;MO83;Benton
+MO;MO51;Bollinger
+MO;MO72;Bollinger
+MO;MO91;Bollinger
+MO;I-70;Boone
+MO;US40;Boone
+MO;US63;Boone
+MO;MO22;Boone
+MO;MO124;Boone
+MO;MO151;Boone
+MO;MO163;Boone
+MO;MO740;Boone
+MO;MO763;Boone
+MO;I-29;Buchanan
+MO;I-229;Buchanan
+MO;US36;Buchanan
+MO;US59;Buchanan
+MO;US71;Buchanan
+MO;US169;Buchanan
+MO;MO6;Buchanan
+MO;MO31;Buchanan
+MO;MO116;Buchanan
+MO;MO138;Buchanan
+MO;MO273;Buchanan
+MO;MO371;Buchanan
+MO;MO752;Buchanan
+MO;US60;Butler
+MO;US67;Butler
+MO;US160;Butler
+MO;MO51;Butler
+MO;MO53;Butler
+MO;MO142;Butler
+MO;MO158;Butler
+MO;I-35;Caldwell
+MO;US36;Caldwell
+MO;MO13;Caldwell
+MO;MO110;Caldwell
+MO;MO116;Caldwell
+MO;I-70;Callaway
+MO;US40;Callaway
+MO;US54;Callaway
+MO;US63;Callaway
+MO;MO94;Callaway
+MO;US54;Camden
+MO;MO5;Camden
+MO;MO7;Camden
+MO;MO73;Camden
+MO;MO134;Camden
+MO;I-55;Cape Girardeau
+MO;US61;Cape Girardeau
+MO;MO25;Cape Girardeau
+MO;MO32;Cape Girardeau
+MO;MO34;Cape Girardeau
+MO;MO72;Cape Girardeau
+MO;MO74;Cape Girardeau
+MO;MO77;Cape Girardeau
+MO;MO177;Cape Girardeau
+MO;US24;Carroll
+MO;US65;Carroll
+MO;MO10;Carroll
+MO;MO41;Carroll
+MO;MO139;Carroll
+MO;US60;Carter
+MO;MO21;Carter
+MO;MO103;Carter
+MO;I-49;Cass
+MO;US71;Cass
+MO;MO2;Cass
+MO;MO7;Cass
+MO;MO18;Cass
+MO;MO58;Cass
+MO;MO291;Cass
+MO;US54;Cedar
+MO;MO32;Cedar
+MO;MO39;Cedar
+MO;MO82;Cedar
+MO;MO97;Cedar
+MO;MO215;Cedar
+MO;MO245;Cedar
+MO;US24;Chariton
+MO;MO5;Chariton
+MO;MO11;Chariton
+MO;MO129;Chariton
+MO;MO139;Chariton
+MO;US60;Christian
+MO;US65;Christian
+MO;US160;Christian
+MO;MO13;Christian
+MO;MO14;Christian
+MO;MO125;Christian
+MO;MO176;Christian
+MO;MO265;Christian
+MO;MO413;Christian
+MO;US61;Clark
+MO;US136;Clark
+MO;MO27;Clark
+MO;MO81;Clark
+MO;I-29;Clay
+MO;I-35;Clay
+MO;I-435;Clay
+MO;US69;Clay
+MO;US71;Clay
+MO;US169;Clay
+MO;MO1;Clay
+MO;MO9;Clay
+MO;MO10;Clay
+MO;MO33;Clay
+MO;MO92;Clay
+MO;MO110;Clay
+MO;MO152;Clay
+MO;MO210;Clay
+MO;MO283;Clay
+MO;MO291;Clay
+MO;I-35;Clinton
+MO;US69;Clinton
+MO;US169;Clinton
+MO;MO33;Clinton
+MO;MO110;Clinton
+MO;MO116;Clinton
+MO;MO121;Clinton
+MO;US50;Cole
+MO;US54;Cole
+MO;US63;Cole
+MO;MO17;Cole
+MO;MO179;Cole
+MO;I-70;Cooper
+MO;US40;Cooper
+MO;MO5;Cooper
+MO;MO41;Cooper
+MO;MO87;Cooper
+MO;MO98;Cooper
+MO;MO135;Cooper
+MO;MO179;Cooper
+MO;I-44;Crawford
+MO;MO8;Crawford
+MO;MO19;Crawford
+MO;MO49;Crawford
+MO;US160;Dade
+MO;MO39;Dade
+MO;MO97;Dade
+MO;MO215;Dade
+MO;MO245;Dade
+MO;US65;Dallas
+MO;MO32;Dallas
+MO;MO38;Dallas
+MO;MO64;Dallas
+MO;MO64A;Dallas
+MO;MO73;Dallas
+MO;MO215;Dallas
+MO;I-35;Daviess
+MO;US69;Daviess
+MO;MO6;Daviess
+MO;MO13;Daviess
+MO;MO190;Daviess
+MO;I-35;DeKalb
+MO;US36;DeKalb
+MO;US69;DeKalb
+MO;US169;DeKalb
+MO;MO6;DeKalb
+MO;MO31;DeKalb
+MO;MO33;DeKalb
+MO;MO110;DeKalb
+MO;MO19;Dent
+MO;MO32;Dent
+MO;MO68;Dent
+MO;MO72;Dent
+MO;MO117;Dent
+MO;MO119;Dent
+MO;MO5;Douglas
+MO;MO14;Douglas
+MO;MO76;Douglas
+MO;MO95;Douglas
+MO;MO181;Douglas
+MO;US62;Dunklin
+MO;US412;Dunklin
+MO;MO25;Dunklin
+MO;MO53;Dunklin
+MO;MO84;Dunklin
+MO;MO108;Dunklin
+MO;MO153;Dunklin
+MO;MO162;Dunklin
+MO;MO164;Dunklin
+MO;I-44;Franklin
+MO;US50;Franklin
+MO;MO30;Franklin
+MO;MO47;Franklin
+MO;MO100;Franklin
+MO;MO185;Franklin
+MO;US50;Gasconade
+MO;MO19;Gasconade
+MO;MO28;Gasconade
+MO;MO100;Gasconade
+MO;US136;Gentry
+MO;US169;Gentry
+MO;MO48;Gentry
+MO;MO85;Gentry
+MO;I-44;Greene
+MO;US60;Greene
+MO;US65;Greene
+MO;US160;Greene
+MO;MO13;Greene
+MO;MO125;Greene
+MO;MO174;Greene
+MO;MO266;Greene
+MO;MO360;Greene
+MO;MO413;Greene
+MO;MO744;Greene
+MO;US65;Grundy
+MO;MO6;Grundy
+MO;MO128;Grundy
+MO;MO139;Grundy
+MO;MO146;Grundy
+MO;MO190;Grundy
+MO;I-35;Harrison
+MO;US69;Harrison
+MO;US136;Harrison
+MO;MO13;Harrison
+MO;MO46;Harrison
+MO;MO146;Harrison
+MO;MO2;Henry
+MO;MO7;Henry
+MO;MO13;Henry
+MO;MO18;Henry
+MO;MO23;Henry
+MO;MO52;Henry
+MO;US54;Hickory
+MO;US65;Hickory
+MO;MO64;Hickory
+MO;MO64B;Hickory
+MO;MO82;Hickory
+MO;MO83;Hickory
+MO;MO123;Hickory
+MO;MO254;Hickory
+MO;I-29;Holt
+MO;US59;Holt
+MO;US159;Holt
+MO;MO111;Holt
+MO;MO113;Holt
+MO;MO118;Holt
+MO;MO120;Holt
+MO;US40;Howard
+MO;MO3;Howard
+MO;MO5;Howard
+MO;MO87;Howard
+MO;MO124;Howard
+MO;MO129;Howard
+MO;MO187;Howard
+MO;MO240;Howard
+MO;US60;Howell
+MO;US63;Howell
+MO;US160;Howell
+MO;MO14;Howell
+MO;MO17;Howell
+MO;MO76;Howell
+MO;MO101;Howell
+MO;MO137;Howell
+MO;MO142;Howell
+MO;MO21;Iron
+MO;MO32;Iron
+MO;MO49;Iron
+MO;MO72;Iron
+MO;MO143;Iron
+MO;MO221;Iron
+MO;I-29;Jackson
+MO;I-35;Jackson
+MO;I-49;Jackson
+MO;I-70;Jackson
+MO;I-435;Jackson
+MO;I-470;Jackson
+MO;I-670;Jackson
+MO;US24;Jackson
+MO;US40;Jackson
+MO;US50;Jackson
+MO;US56;Jackson
+MO;US71;Jackson
+MO;US169;Jackson
+MO;MO7;Jackson
+MO;MO12;Jackson
+MO;MO78;Jackson
+MO;MO150;Jackson
+MO;MO291;Jackson
+MO;MO350;Jackson
+MO;I-44;Jasper
+MO;I-49;Jasper
+MO;US71;Jasper
+MO;MO37;Jasper
+MO;MO43;Jasper
+MO;MO66;Jasper
+MO;MO96;Jasper
+MO;MO171;Jasper
+MO;MO249;Jasper
+MO;MO571;Jasper
+MO;I-55;Jefferson
+MO;US61;Jefferson
+MO;US67;Jefferson
+MO;MO21;Jefferson
+MO;MO30;Jefferson
+MO;MO109;Jefferson
+MO;MO110;Jefferson
+MO;MO141;Jefferson
+MO;MO231;Jefferson
+MO;US50;Johnson
+MO;MO2;Johnson
+MO;MO13;Johnson
+MO;MO23;Johnson
+MO;MO58;Johnson
+MO;MO131;Johnson
+MO;MO6;Knox
+MO;MO11;Knox
+MO;MO15;Knox
+MO;MO151;Knox
+MO;MO156;Knox
+MO;I-44;Laclede
+MO;MO5;Laclede
+MO;MO17;Laclede
+MO;MO32;Laclede
+MO;MO64;Laclede
+MO;MO64A;Laclede
+MO;MO95;Laclede
+MO;I-70;Lafayette
+MO;US24;Lafayette
+MO;US40;Lafayette
+MO;US65;Lafayette
+MO;MO13;Lafayette
+MO;MO23;Lafayette
+MO;MO131;Lafayette
+MO;MO213;Lafayette
+MO;MO224;Lafayette
+MO;I-44;Lawrence
+MO;US60;Lawrence
+MO;MO14;Lawrence
+MO;MO37;Lawrence
+MO;MO39;Lawrence
+MO;MO96;Lawrence
+MO;MO97;Lawrence
+MO;MO174;Lawrence
+MO;MO265;Lawrence
+MO;MO266;Lawrence
+MO;US61;Lewis
+MO;MO6;Lewis
+MO;MO16;Lewis
+MO;MO81;Lewis
+MO;MO156;Lewis
+MO;US61;Lincoln
+MO;MO47;Lincoln
+MO;MO79;Lincoln
+MO;MO147;Lincoln
+MO;US36;Linn
+MO;MO5;Linn
+MO;MO11;Linn
+MO;MO110;Linn
+MO;MO129;Linn
+MO;MO130;Linn
+MO;MO139;Linn
+MO;US36;Livingston
+MO;US65;Livingston
+MO;MO110;Livingston
+MO;MO139;Livingston
+MO;MO190;Livingston
+MO;US36;Macon
+MO;US63;Macon
+MO;MO3;Macon
+MO;MO110;Macon
+MO;MO129;Macon
+MO;MO149;Macon
+MO;MO156;Macon
+MO;US67;Madison
+MO;MO72;Madison
+MO;US63;Maries
+MO;MO28;Maries
+MO;MO42;Maries
+MO;MO52;Maries
+MO;MO68;Maries
+MO;MO89;Maries
+MO;MO133;Maries
+MO;I-72;Marion
+MO;US24;Marion
+MO;US36;Marion
+MO;US61;Marion
+MO;MO6;Marion
+MO;MO79;Marion
+MO;MO110;Marion
+MO;MO168;Marion
+MO;I-49;McDonald
+MO;US71;McDonald
+MO;MO43;McDonald
+MO;MO59;McDonald
+MO;MO76;McDonald
+MO;MO90;McDonald
+MO;US65;Mercer
+MO;US136;Mercer
+MO;MO145;Mercer
+MO;US54;Miller
+MO;MO17;Miller
+MO;MO42;Miller
+MO;MO52;Miller
+MO;MO87;Miller
+MO;MO134;Miller
+MO;MO242;Miller
+MO;I-57;Mississippi
+MO;US62;Mississippi
+MO;MO75;Mississippi
+MO;MO77;Mississippi
+MO;MO80;Mississippi
+MO;MO102;Mississippi
+MO;MO105;Mississippi
+MO;US50;Moniteau
+MO;MO5;Moniteau
+MO;MO87;Moniteau
+MO;MO179;Moniteau
+MO;US24;Monroe
+MO;MO15;Monroe
+MO;MO107;Monroe
+MO;MO151;Monroe
+MO;MO154;Monroe
+MO;I-70;Montgomery
+MO;US40;Montgomery
+MO;MO19;Montgomery
+MO;MO94;Montgomery
+MO;MO161;Montgomery
+MO;US50;Morgan
+MO;MO5;Morgan
+MO;MO52;Morgan
+MO;MO135;Morgan
+MO;I-55;New Madrid
+MO;US60;New Madrid
+MO;US61;New Madrid
+MO;US62;New Madrid
+MO;MO25;New Madrid
+MO;MO80;New Madrid
+MO;MO114;New Madrid
+MO;MO153;New Madrid
+MO;MO162;New Madrid
+MO;I-44;Newton
+MO;I-49;Newton
+MO;US60;Newton
+MO;US71;Newton
+MO;US166;Newton
+MO;US400;Newton
+MO;MO37;Newton
+MO;MO43;Newton
+MO;MO59;Newton
+MO;MO76;Newton
+MO;MO86;Newton
+MO;MO175;Newton
+MO;US71;Nodaway
+MO;US136;Nodaway
+MO;MO46;Nodaway
+MO;MO113;Nodaway
+MO;MO148;Nodaway
+MO;MO246;Nodaway
+MO;US63;Oregon
+MO;US160;Oregon
+MO;MO19;Oregon
+MO;MO99;Oregon
+MO;MO142;Oregon
+MO;US50;Osage
+MO;US63;Osage
+MO;MO28;Osage
+MO;MO89;Osage
+MO;MO100;Osage
+MO;MO133;Osage
+MO;US160;Ozark
+MO;MO5;Ozark
+MO;MO95;Ozark
+MO;MO101;Ozark
+MO;MO142;Ozark
+MO;MO181;Ozark
+MO;I-55;Pemiscot
+MO;I-155;Pemiscot
+MO;US61;Pemiscot
+MO;US412;Pemiscot
+MO;MO84;Pemiscot
+MO;MO153;Pemiscot
+MO;MO164;Pemiscot
+MO;I-55;Perry
+MO;US61;Perry
+MO;MO51;Perry
+MO;US50;Pettis
+MO;US65;Pettis
+MO;MO52;Pettis
+MO;MO127;Pettis
+MO;MO135;Pettis
+MO;MO765;Pettis
+MO;I-44;Phelps
+MO;US63;Phelps
+MO;MO8;Phelps
+MO;MO68;Phelps
+MO;MO72;Phelps
+MO;US54;Pike
+MO;US61;Pike
+MO;MO79;Pike
+MO;MO154;Pike
+MO;MO161;Pike
+MO;I-29;Platte
+MO;I-435;Platte
+MO;I-635;Platte
+MO;US69;Platte
+MO;US71;Platte
+MO;MO9;Platte
+MO;MO45;Platte
+MO;MO92;Platte
+MO;MO152;Platte
+MO;MO273;Platte
+MO;MO371;Platte
+MO;MO13;Polk
+MO;MO32;Polk
+MO;MO64;Polk
+MO;MO83;Polk
+MO;MO123;Polk
+MO;MO215;Polk
+MO;I-44;Pulaski
+MO;MO7;Pulaski
+MO;MO17;Pulaski
+MO;MO28;Pulaski
+MO;MO133;Pulaski
+MO;US136;Putnam
+MO;MO5;Putnam
+MO;MO129;Putnam
+MO;MO139;Putnam
+MO;MO149;Putnam
+MO;US24;Ralls
+MO;US36;Ralls
+MO;US54;Ralls
+MO;US61;Ralls
+MO;MO19;Ralls
+MO;MO79;Ralls
+MO;MO110;Ralls
+MO;MO154;Ralls
+MO;US24;Randolph
+MO;US63;Randolph
+MO;MO3;Randolph
+MO;MO10;Ray
+MO;MO13;Ray
+MO;MO210;Ray
+MO;MO21;Reynolds
+MO;MO34;Reynolds
+MO;MO49;Reynolds
+MO;MO72;Reynolds
+MO;MO106;Reynolds
+MO;US160;Ripley
+MO;MO21;Ripley
+MO;MO142;Ripley
+MO;I-64;St. Charles
+MO;I-70;St. Charles
+MO;US40;St. Charles
+MO;US61;St. Charles
+MO;US67;St. Charles
+MO;MO79;St. Charles
+MO;MO94;St. Charles
+MO;MO364;St. Charles
+MO;MO370;St. Charles
+MO;US54;St. Clair
+MO;MO13;St. Clair
+MO;MO52;St. Clair
+MO;MO82;St. Clair
+MO;US67;St. Francois
+MO;MO8;St. Francois
+MO;MO32;St. Francois
+MO;MO47;St. Francois
+MO;MO221;St. Francois
+MO;I-44;St. Louis County
+MO;I-55;St. Louis County
+MO;I-64;St. Louis County
+MO;I-70;St. Louis County
+MO;I-170;St. Louis County
+MO;I-255;St. Louis County
+MO;I-270;St. Louis County
+MO;US40;St. Louis County
+MO;US50;St. Louis County
+MO;US61;St. Louis County
+MO;US67;St. Louis County
+MO;MO21;St. Louis County
+MO;MO30;St. Louis County
+MO;MO100;St. Louis County
+MO;MO109;St. Louis County
+MO;MO115;St. Louis County
+MO;MO141;St. Louis County
+MO;MO180;St. Louis County
+MO;MO231;St. Louis County
+MO;MO267;St. Louis County
+MO;MO340;St. Louis County
+MO;MO364;St. Louis County
+MO;MO366;St. Louis County
+MO;MO367;St. Louis County
+MO;MO370;St. Louis County
+MO;I-44;St. Louis City
+MO;I-55;St. Louis City
+MO;I-70;St. Louis City
+MO;I-270;St. Louis City
+MO;US40;St. Louis City
+MO;MO30;St. Louis City
+MO;MO100;St. Louis City
+MO;MO115;St. Louis City
+MO;MO180;St. Louis City
+MO;MO340;St. Louis City
+MO;MO366;St. Louis City
+MO;MO367;St. Louis City
+MO;I-55;Ste. Genevieve
+MO;US61;Ste. Genevieve
+MO;MO32;Ste. Genevieve
+MO;MO144;Ste. Genevieve
+MO;I-70;Saline
+MO;US40;Saline
+MO;US65;Saline
+MO;MO20;Saline
+MO;MO41;Saline
+MO;MO127;Saline
+MO;MO240;Saline
+MO;US63;Schuyler
+MO;US136;Schuyler
+MO;MO202;Schuyler
+MO;US136;Scotland
+MO;MO15;Scotland
+MO;I-55;Scott
+MO;I-57;Scott
+MO;US60;Scott
+MO;US61;Scott
+MO;US62;Scott
+MO;MO77;Scott
+MO;MO91;Scott
+MO;MO114;Scott
+MO;US60;Shannon
+MO;MO19;Shannon
+MO;MO99;Shannon
+MO;MO106;Shannon
+MO;US36;Shelby
+MO;MO15;Shelby
+MO;MO110;Shelby
+MO;MO151;Shelby
+MO;MO168;Shelby
+MO;US60;Stoddard
+MO;MO25;Stoddard
+MO;MO51;Stoddard
+MO;MO91;Stoddard
+MO;MO114;Stoddard
+MO;MO153;Stoddard
+MO;US160;Stone
+MO;MO13;Stone
+MO;MO39;Stone
+MO;MO76;Stone
+MO;MO86;Stone
+MO;MO173;Stone
+MO;MO176;Stone
+MO;MO248;Stone
+MO;MO265;Stone
+MO;MO413;Stone
+MO;MO5;Sullivan
+MO;MO6;Sullivan
+MO;MO129;Sullivan
+MO;MO139;Sullivan
+MO;US65;Taney
+MO;US160;Taney
+MO;MO76;Taney
+MO;MO86;Taney
+MO;MO125;Taney
+MO;MO165;Taney
+MO;MO176;Taney
+MO;MO248;Taney
+MO;MO265;Taney
+MO;MO376;Taney
+MO;US60;Texas
+MO;US63;Texas
+MO;MO17;Texas
+MO;MO32;Texas
+MO;MO38;Texas
+MO;MO106;Texas
+MO;MO137;Texas
+MO;MO181;Texas
+MO;I-49;Vernon
+MO;US54;Vernon
+MO;US71;Vernon
+MO;MO43;Vernon
+MO;I-70;Warren
+MO;US40;Warren
+MO;MO47;Warren
+MO;MO94;Warren
+MO;MO8;Washington
+MO;MO21;Washington
+MO;MO32;Washington
+MO;MO47;Washington
+MO;MO104;Washington
+MO;MO185;Washington
+MO;US67;Wayne
+MO;MO34;Wayne
+MO;MO49;Wayne
+MO;MO143;Wayne
+MO;MO172;Wayne
+MO;I-44;Webster
+MO;US60;Webster
+MO;MO38;Webster
+MO;US169;Worth
+MO;MO46;Worth
+MO;MO246;Worth
+MO;US60;Wright
+MO;MO5;Wright
+MO;MO38;Wright
+MO;MO95;Wright
