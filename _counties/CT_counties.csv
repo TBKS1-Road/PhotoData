@@ -1,0 +1,311 @@
+region;route;county
+CT;I-84;Fairfield
+CT;I-95;Fairfield
+CT;I-684;Fairfield
+CT;US1;Fairfield
+CT;US6;Fairfield
+CT;US7;Fairfield
+CT;US202;Fairfield
+CT;CT8;Fairfield
+CT;CT15;Fairfield
+CT;CT25;Fairfield
+CT;CT33;Fairfield
+CT;CT34;Fairfield
+CT;CT35;Fairfield
+CT;CT37;Fairfield
+CT;CT39;Fairfield
+CT;CT53;Fairfield
+CT;CT55;Fairfield
+CT;CT57;Fairfield
+CT;CT58;Fairfield
+CT;CT59;Fairfield
+CT;CT102;Fairfield
+CT;CT104;Fairfield
+CT;CT106;Fairfield
+CT;CT107;Fairfield
+CT;CT108;Fairfield
+CT;CT110;Fairfield
+CT;CT111;Fairfield
+CT;CT113;Fairfield
+CT;CT116;Fairfield
+CT;CT123;Fairfield
+CT;CT124;Fairfield
+CT;CT127;Fairfield
+CT;CT130;Fairfield
+CT;CT133;Fairfield
+CT;CT135;Fairfield
+CT;CT137;Fairfield
+CT;CT302;Fairfield
+CT;I-84;Hartford
+CT;I-91;Hartford
+CT;I-291;Hartford
+CT;I-384;Hartford
+CT;I-691;Hartford
+CT;US5;Hartford
+CT;US6;Hartford
+CT;US44;Hartford
+CT;US202;Hartford
+CT;CT2;Hartford
+CT;CT3;Hartford
+CT;CT4;Hartford
+CT;CT9;Hartford
+CT;CT10;Hartford
+CT;CT15;Hartford
+CT;CT17;Hartford
+CT;CT20;Hartford
+CT;CT30;Hartford
+CT;CT66;Hartford
+CT;CT69;Hartford
+CT;CT71;Hartford
+CT;CT72;Hartford
+CT;CT74;Hartford
+CT;CT75;Hartford
+CT;CT83;Hartford
+CT;CT94;Hartford
+CT;CT99;Hartford
+CT;CT120;Hartford
+CT;CT140;Hartford
+CT;CT159;Hartford
+CT;CT160;Hartford
+CT;CT167;Hartford
+CT;CT168;Hartford
+CT;CT173;Hartford
+CT;CT174;Hartford
+CT;CT175;Hartford
+CT;CT176;Hartford
+CT;CT177;Hartford
+CT;CT178;Hartford
+CT;CT179;Hartford
+CT;CT181;Hartford
+CT;CT185;Hartford
+CT;CT187;Hartford
+CT;CT189;Hartford
+CT;CT190;Hartford
+CT;CT191;Hartford
+CT;CT192;Hartford
+CT;CT194;Hartford
+CT;CT218;Hartford
+CT;CT219;Hartford
+CT;CT220;Hartford
+CT;CT287;Hartford
+CT;CT305;Hartford
+CT;CT309;Hartford
+CT;CT314;Hartford
+CT;CT315;Hartford
+CT;CT322;Hartford
+CT;CT364;Hartford
+CT;CT372;Hartford
+CT;US6;Litchfield
+CT;US7;Litchfield
+CT;US44;Litchfield
+CT;US202;Litchfield
+CT;CT4;Litchfield
+CT;CT8;Litchfield
+CT;CT20;Litchfield
+CT;CT37;Litchfield
+CT;CT41;Litchfield
+CT;CT43;Litchfield
+CT;CT45;Litchfield
+CT;CT47;Litchfield
+CT;CT55;Litchfield
+CT;CT61;Litchfield
+CT;CT63;Litchfield
+CT;CT64;Litchfield
+CT;CT67;Litchfield
+CT;CT72;Litchfield
+CT;CT73;Litchfield
+CT;CT109;Litchfield
+CT;CT112;Litchfield
+CT;CT118;Litchfield
+CT;CT125;Litchfield
+CT;CT126;Litchfield
+CT;CT128;Litchfield
+CT;CT132;Litchfield
+CT;CT133;Litchfield
+CT;CT179;Litchfield
+CT;CT181;Litchfield
+CT;CT182;Litchfield
+CT;CT183;Litchfield
+CT;CT199;Litchfield
+CT;CT209;Litchfield
+CT;CT219;Litchfield
+CT;CT222;Litchfield
+CT;CT254;Litchfield
+CT;CT262;Litchfield
+CT;CT263;Litchfield
+CT;CT272;Litchfield
+CT;CT317;Litchfield
+CT;CT318;Litchfield
+CT;CT341;Litchfield
+CT;CT343;Litchfield
+CT;CT361;Litchfield
+CT;I-91;Middlesex
+CT;I-95;Middlesex
+CT;I-691;Middlesex
+CT;US1;Middlesex
+CT;CT3;Middlesex
+CT;CT9;Middlesex
+CT;CT16;Middlesex
+CT;CT17;Middlesex
+CT;CT66;Middlesex
+CT;CT68;Middlesex
+CT;CT77;Middlesex
+CT;CT79;Middlesex
+CT;CT80;Middlesex
+CT;CT81;Middlesex
+CT;CT82;Middlesex
+CT;CT99;Middlesex
+CT;CT145;Middlesex
+CT;CT147;Middlesex
+CT;CT148;Middlesex
+CT;CT149;Middlesex
+CT;CT151;Middlesex
+CT;CT153;Middlesex
+CT;CT154;Middlesex
+CT;CT155;Middlesex
+CT;CT156;Middlesex
+CT;CT157;Middlesex
+CT;CT166;Middlesex
+CT;CT196;Middlesex
+CT;CT217;Middlesex
+CT;CT372;Middlesex
+CT;I-84;New Haven
+CT;I-91;New Haven
+CT;I-95;New Haven
+CT;I-691;New Haven
+CT;US1;New Haven
+CT;US5;New Haven
+CT;US6;New Haven
+CT;CT8;New Haven
+CT;CT10;New Haven
+CT;CT15;New Haven
+CT;CT17;New Haven
+CT;CT22;New Haven
+CT;CT34;New Haven
+CT;CT40;New Haven
+CT;CT42;New Haven
+CT;CT63;New Haven
+CT;CT64;New Haven
+CT;CT66;New Haven
+CT;CT67;New Haven
+CT;CT68;New Haven
+CT;CT69;New Haven
+CT;CT70;New Haven
+CT;CT71;New Haven
+CT;CT73;New Haven
+CT;CT77;New Haven
+CT;CT79;New Haven
+CT;CT80;New Haven
+CT;CT100;New Haven
+CT;CT103;New Haven
+CT;CT114;New Haven
+CT;CT115;New Haven
+CT;CT121;New Haven
+CT;CT122;New Haven
+CT;CT139;New Haven
+CT;CT142;New Haven
+CT;CT146;New Haven
+CT;CT150;New Haven
+CT;CT152;New Haven
+CT;CT162;New Haven
+CT;CT172;New Haven
+CT;CT188;New Haven
+CT;CT243;New Haven
+CT;CT262;New Haven
+CT;CT313;New Haven
+CT;CT322;New Haven
+CT;CT334;New Haven
+CT;CT337;New Haven
+CT;I-95;New London
+CT;I-395;New London
+CT;US1;New London
+CT;CT2;New London
+CT;CT11;New London
+CT;CT12;New London
+CT;CT16;New London
+CT;CT27;New London
+CT;CT32;New London
+CT;CT49;New London
+CT;CT78;New London
+CT;CT82;New London
+CT;CT85;New London
+CT;CT87;New London
+CT;CT97;New London
+CT;CT117;New London
+CT;CT138;New London
+CT;CT148;New London
+CT;CT149;New London
+CT;CT156;New London
+CT;CT161;New London
+CT;CT163;New London
+CT;CT164;New London
+CT;CT165;New London
+CT;CT169;New London
+CT;CT184;New London
+CT;CT201;New London
+CT;CT207;New London
+CT;CT213;New London
+CT;CT214;New London
+CT;CT215;New London
+CT;CT216;New London
+CT;CT234;New London
+CT;CT289;New London
+CT;CT349;New London
+CT;CT354;New London
+CT;I-84;Tolland
+CT;I-384;Tolland
+CT;US6;Tolland
+CT;US44;Tolland
+CT;CT19;Tolland
+CT;CT30;Tolland
+CT;CT31;Tolland
+CT;CT32;Tolland
+CT;CT66;Tolland
+CT;CT74;Tolland
+CT;CT83;Tolland
+CT;CT85;Tolland
+CT;CT87;Tolland
+CT;CT89;Tolland
+CT;CT94;Tolland
+CT;CT140;Tolland
+CT;CT149;Tolland
+CT;CT171;Tolland
+CT;CT186;Tolland
+CT;CT190;Tolland
+CT;CT195;Tolland
+CT;CT197;Tolland
+CT;CT207;Tolland
+CT;CT275;Tolland
+CT;CT286;Tolland
+CT;CT316;Tolland
+CT;CT319;Tolland
+CT;CT320;Tolland
+CT;I-84;Windham
+CT;I-395;Windham
+CT;US6;Windham
+CT;US44;Windham
+CT;CT19;Windham
+CT;CT30;Windham
+CT;CT31;Windham
+CT;CT32;Windham
+CT;CT66;Windham
+CT;CT74;Windham
+CT;CT85;Windham
+CT;CT87;Windham
+CT;CT89;Windham
+CT;CT94;Windham
+CT;CT131;Windham
+CT;CT140;Windham
+CT;CT149;Windham
+CT;CT171;Windham
+CT;CT190;Windham
+CT;CT193;Windham
+CT;CT195;Windham
+CT;CT197;Windham
+CT;CT198;Windham
+CT;CT207;Windham
+CT;CT275;Windham
+CT;CT286;Windham
+CT;CT316;Windham
+CT;CT319;Windham
+CT;CT320;Windham
