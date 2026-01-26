@@ -1,0 +1,1677 @@
+region;route;county
+LA;I-10;Acadia
+LA;US90;Acadia
+LA;US190;Acadia
+LA;LA13;Acadia
+LA;LA35;Acadia
+LA;LA91;Acadia
+LA;LA92;Acadia
+LA;LA95;Acadia
+LA;LA97;Acadia
+LA;LA98;Acadia
+LA;LA100;Acadia
+LA;LA178;Acadia
+LA;LA342;Acadia
+LA;LA343;Acadia
+LA;LA356;Acadia
+LA;LA358;Acadia
+LA;LA365;Acadia
+LA;LA367;Acadia
+LA;LA368;Acadia
+LA;LA370;Acadia
+LA;LA751;Acadia
+LA;LA754;Acadia
+LA;LA755;Acadia
+LA;LA761;Acadia
+LA;LA1096;Acadia
+LA;LA1097;Acadia
+LA;LA1098;Acadia
+LA;LA1099;Acadia
+LA;LA1100;Acadia
+LA;LA1101;Acadia
+LA;LA1102;Acadia
+LA;LA1104;Acadia
+LA;LA1105;Acadia
+LA;LA1106;Acadia
+LA;LA1107;Acadia
+LA;LA1108;Acadia
+LA;LA1109;Acadia
+LA;LA1110;Acadia
+LA;LA1111;Acadia
+LA;LA1113;Acadia
+LA;LA1115;Acadia
+LA;LA1119;Acadia
+LA;LA1120;Acadia
+LA;LA1121;Acadia
+LA;LA1123;Acadia
+LA;LA1124;Acadia
+LA;LA3007;Acadia
+LA;LA3067;Acadia
+LA;LA3068;Acadia
+LA;LA3070;Acadia
+LA;LA3116;Acadia
+LA;LA3123;Acadia
+LA;US165;Allen
+LA;US190;Allen
+LA;LA10;Allen
+LA;LA26;Allen
+LA;LA99;Allen
+LA;LA104;Allen
+LA;LA112;Allen
+LA;LA113;Allen
+LA;LA372;Allen
+LA;LA377;Allen
+LA;LA383;Allen
+LA;LA1151;Allen
+LA;LA1152;Allen
+LA;LA1153;Allen
+LA;LA1156;Allen
+LA;LA3205;Allen
+LA;LA3206;Allen
+LA;I-10;Ascension
+LA;US90;Ascension
+LA;LA1;Ascension
+LA;LA18;Ascension
+LA;LA22;Ascension
+LA;LA30;Ascension
+LA;LA42;Ascension
+LA;LA44;Ascension
+LA;LA70;Ascension
+LA;LA73;Ascension
+LA;LA74;Ascension
+LA;LA75;Ascension
+LA;LA308;Ascension
+LA;LA405;Ascension
+LA;LA427;Ascension
+LA;LA429;Ascension
+LA;LA431;Ascension
+LA;LA621;Ascension
+LA;LA928;Ascension
+LA;LA931;Ascension
+LA;LA933;Ascension
+LA;LA934;Ascension
+LA;LA935;Ascension
+LA;LA936;Ascension
+LA;LA937;Ascension
+LA;LA938;Ascension
+LA;LA939;Ascension
+LA;LA940;Ascension
+LA;LA941;Ascension
+LA;LA942;Ascension
+LA;LA943;Ascension
+LA;LA944;Ascension
+LA;LA945;Ascension
+LA;LA3038;Ascension
+LA;LA3089;Ascension
+LA;LA3120;Ascension
+LA;LA3127;Ascension
+LA;LA3251;Ascension
+LA;US90;Assumption
+LA;LA1;Assumption
+LA;LA69;Assumption
+LA;LA70;Assumption
+LA;LA182;Assumption
+LA;LA308;Assumption
+LA;LA398;Assumption
+LA;LA400;Assumption
+LA;LA401;Assumption
+LA;LA402;Assumption
+LA;LA403;Assumption
+LA;LA662;Assumption
+LA;LA663;Assumption
+LA;LA996;Assumption
+LA;LA998;Assumption
+LA;LA999;Assumption
+LA;LA1000;Assumption
+LA;LA1001;Assumption
+LA;LA1003;Assumption
+LA;LA1004;Assumption
+LA;LA1005;Assumption
+LA;LA1006;Assumption
+LA;LA1007;Assumption
+LA;LA1008;Assumption
+LA;LA1010;Assumption
+LA;LA1011;Assumption
+LA;LA1012;Assumption
+LA;LA1013;Assumption
+LA;LA1014;Assumption
+LA;LA1015-1;Assumption
+LA;LA1015-2;Assumption
+LA;LA1016-1;Assumption
+LA;LA1016-2;Assumption
+LA;I-49;Avoyelles
+LA;US71;Avoyelles
+LA;LA1;Avoyelles
+LA;LA29;Avoyelles
+LA;LA105;Avoyelles
+LA;LA106;Avoyelles
+LA;LA107;Avoyelles
+LA;LA114;Avoyelles
+LA;LA115;Avoyelles
+LA;LA361;Avoyelles
+LA;LA362;Avoyelles
+LA;LA451;Avoyelles
+LA;LA452;Avoyelles
+LA;LA453;Avoyelles
+LA;LA454;Avoyelles
+LA;LA1175;Avoyelles
+LA;LA1176;Avoyelles
+LA;LA1177;Avoyelles
+LA;LA1178;Avoyelles
+LA;LA1179;Avoyelles
+LA;LA1180;Avoyelles
+LA;LA1181;Avoyelles
+LA;LA1182;Avoyelles
+LA;LA1183;Avoyelles
+LA;LA1184;Avoyelles
+LA;LA1185;Avoyelles
+LA;LA1186;Avoyelles
+LA;LA1187;Avoyelles
+LA;LA1188;Avoyelles
+LA;LA1189;Avoyelles
+LA;LA1190;Avoyelles
+LA;LA1191;Avoyelles
+LA;LA1192;Avoyelles
+LA;LA1193;Avoyelles
+LA;LA1194;Avoyelles
+LA;LA1195;Avoyelles
+LA;LA1196;Avoyelles
+LA;LA3041;Avoyelles
+LA;US171;Beauregard
+LA;US190;Beauregard
+LA;LA12;Beauregard
+LA;LA26;Beauregard
+LA;LA27;Beauregard
+LA;LA109;Beauregard
+LA;LA110;Beauregard
+LA;LA111;Beauregard
+LA;LA112;Beauregard
+LA;LA113;Beauregard
+LA;LA389;Beauregard
+LA;LA394;Beauregard
+LA;LA399;Beauregard
+LA;LA1146;Beauregard
+LA;LA1147;Beauregard
+LA;LA3099;Beauregard
+LA;LA3226;Beauregard
+LA;I-20;Bienville
+LA;US80;Bienville
+LA;US371;Bienville
+LA;LA4;Bienville
+LA;LA9;Bienville
+LA;LA147;Bienville
+LA;LA151;Bienville
+LA;LA153;Bienville
+LA;LA154;Bienville
+LA;LA155;Bienville
+LA;LA501;Bienville
+LA;LA507;Bienville
+LA;LA508;Bienville
+LA;LA516;Bienville
+LA;LA517;Bienville
+LA;LA519;Bienville
+LA;LA783;Bienville
+LA;LA790;Bienville
+LA;LA792;Bienville
+LA;LA793;Bienville
+LA;LA794;Bienville
+LA;LA795;Bienville
+LA;LA796;Bienville
+LA;LA797;Bienville
+LA;LA798-1;Bienville
+LA;LA798-2;Bienville
+LA;LA798-3;Bienville
+LA;LA799;Bienville
+LA;I-20;Bossier
+LA;I-220;Bossier
+LA;US71;Bossier
+LA;US80;Bossier
+LA;LA2;Bossier
+LA;LA3;Bossier
+LA;LA72;Bossier
+LA;LA154;Bossier
+LA;LA157;Bossier
+LA;LA160;Bossier
+LA;LA162;Bossier
+LA;LA164;Bossier
+LA;LA511;Bossier
+LA;LA515;Bossier
+LA;LA527;Bossier
+LA;LA528;Bossier
+LA;LA529;Bossier
+LA;LA537;Bossier
+LA;LA612;Bossier
+LA;LA614;Bossier
+LA;LA782-2;Bossier
+LA;LA3032;Bossier
+LA;LA3105;Bossier
+LA;LA3227;Bossier
+LA;I-20;Caddo
+LA;I-220;Caddo
+LA;US71;Caddo
+LA;US80;Caddo
+LA;US171;Caddo
+LA;LA1;Caddo
+LA;LA2;Caddo
+LA;LA168;Caddo
+LA;LA169;Caddo
+LA;LA170;Caddo
+LA;LA173;Caddo
+LA;LA175;Caddo
+LA;LA511;Caddo
+LA;LA523;Caddo
+LA;LA525;Caddo
+LA;LA526;Caddo
+LA;LA530;Caddo
+LA;LA538;Caddo
+LA;LA767;Caddo
+LA;LA789;Caddo
+LA;LA3032;Caddo
+LA;LA3036;Caddo
+LA;LA3049;Caddo
+LA;LA3094;Caddo
+LA;LA3132;Caddo
+LA;LA3194;Caddo
+LA;I-10;Calcasieu
+LA;I-210;Calcasieu
+LA;US90;Calcasieu
+LA;US165;Calcasieu
+LA;US171;Calcasieu
+LA;LA12;Calcasieu
+LA;LA14;Calcasieu
+LA;LA27;Calcasieu
+LA;LA101;Calcasieu
+LA;LA108;Calcasieu
+LA;LA109;Calcasieu
+LA;LA378;Calcasieu
+LA;LA379;Calcasieu
+LA;LA383;Calcasieu
+LA;LA384;Calcasieu
+LA;LA385;Calcasieu
+LA;LA389;Calcasieu
+LA;LA397;Calcasieu
+LA;LA1133;Calcasieu
+LA;LA1138-1;Calcasieu
+LA;LA1138-2;Calcasieu
+LA;LA1138-3;Calcasieu
+LA;LA1256;Calcasieu
+LA;LA1262;Calcasieu
+LA;LA3020;Calcasieu
+LA;LA3059;Calcasieu
+LA;LA3063;Calcasieu
+LA;LA3092;Calcasieu
+LA;LA3112;Calcasieu
+LA;LA3186;Calcasieu
+LA;LA3256;Calcasieu
+LA;LA3258;Calcasieu
+LA;US165;Caldwell
+LA;LA4;Caldwell
+LA;LA125;Caldwell
+LA;LA126;Caldwell
+LA;LA127;Caldwell
+LA;LA133;Caldwell
+LA;LA506;Caldwell
+LA;LA547;Caldwell
+LA;LA557;Caldwell
+LA;LA559;Caldwell
+LA;LA561;Caldwell
+LA;LA843;Caldwell
+LA;LA844;Caldwell
+LA;LA845;Caldwell
+LA;LA846;Caldwell
+LA;LA847;Caldwell
+LA;LA848;Caldwell
+LA;LA849;Caldwell
+LA;LA850;Caldwell
+LA;LA851;Caldwell
+LA;LA14;Cameron
+LA;LA27;Cameron
+LA;LA82;Cameron
+LA;LA384;Cameron
+LA;LA385;Cameron
+LA;LA390;Cameron
+LA;LA717;Cameron
+LA;LA1142;Cameron
+LA;LA1143;Cameron
+LA;LA1144;Cameron
+LA;LA3056;Cameron
+LA;US84;Catahoula
+LA;US425;Catahoula
+LA;LA8;Catahoula
+LA;LA15;Catahoula
+LA;LA28;Catahoula
+LA;LA124;Catahoula
+LA;LA126;Catahoula
+LA;LA459;Catahoula
+LA;LA559;Catahoula
+LA;LA564;Catahoula
+LA;LA567;Catahoula
+LA;LA600;Catahoula
+LA;LA913;Catahoula
+LA;LA914;Catahoula
+LA;LA915;Catahoula
+LA;LA916;Catahoula
+LA;LA921;Catahoula
+LA;LA922;Catahoula
+LA;LA923;Catahoula
+LA;LA1017;Catahoula
+LA;LA1018-1;Catahoula
+LA;LA1018-2;Catahoula
+LA;LA1018-3;Catahoula
+LA;LA3037;Catahoula
+LA;LA3101;Catahoula
+LA;LA3102;Catahoula
+LA;LA3148;Catahoula
+LA;LA3165;Catahoula
+LA;LA3203;Catahoula
+LA;LA3264;Catahoula
+LA;US79;Claiborne
+LA;US167;Claiborne
+LA;LA2;Claiborne
+LA;LA9;Claiborne
+LA;LA146;Claiborne
+LA;LA152;Claiborne
+LA;LA154;Claiborne
+LA;LA161;Claiborne
+LA;LA518;Claiborne
+LA;LA519;Claiborne
+LA;LA520;Claiborne
+LA;LA521;Claiborne
+LA;LA533;Claiborne
+LA;LA534;Claiborne
+LA;LA540;Claiborne
+LA;LA615;Claiborne
+LA;LA805;Claiborne
+LA;LA806;Claiborne
+LA;LA807;Claiborne
+LA;LA808;Claiborne
+LA;LA3062;Claiborne
+LA;US65;Concordia
+LA;US84;Concordia
+LA;US425;Concordia
+LA;LA15;Concordia
+LA;LA129;Concordia
+LA;LA131;Concordia
+LA;LA565;Concordia
+LA;LA566;Concordia
+LA;LA568;Concordia
+LA;LA569;Concordia
+LA;LA600;Concordia
+LA;LA900;Concordia
+LA;LA903;Concordia
+LA;LA906;Concordia
+LA;LA907;Concordia
+LA;LA908;Concordia
+LA;LA909;Concordia
+LA;LA910;Concordia
+LA;LA3180;Concordia
+LA;LA3196;Concordia
+LA;LA3203;Concordia
+LA;LA3232;Concordia
+LA;I-49;DeSoto
+LA;US84;DeSoto
+LA;US171;DeSoto
+LA;US371;DeSoto
+LA;LA5;DeSoto
+LA;LA169;DeSoto
+LA;LA172;DeSoto
+LA;LA174;DeSoto
+LA;LA175;DeSoto
+LA;LA177;DeSoto
+LA;LA191;DeSoto
+LA;LA346;DeSoto
+LA;LA481;DeSoto
+LA;LA483;DeSoto
+LA;LA509;DeSoto
+LA;LA510;DeSoto
+LA;LA512;DeSoto
+LA;LA513;DeSoto
+LA;LA522;DeSoto
+LA;LA763;DeSoto
+LA;LA764;DeSoto
+LA;LA765;DeSoto
+LA;LA789;DeSoto
+LA;LA3015;DeSoto
+LA;LA3248;DeSoto
+LA;LA3276;DeSoto
+LA;I-10;East Baton Rouge
+LA;I-12;East Baton Rouge
+LA;I-110;East Baton Rouge
+LA;US61;East Baton Rouge
+LA;US190;East Baton Rouge
+LA;LA19;East Baton Rouge
+LA;LA30;East Baton Rouge
+LA;LA37;East Baton Rouge
+LA;LA42;East Baton Rouge
+LA;LA64;East Baton Rouge
+LA;LA64-1;East Baton Rouge
+LA;LA67;East Baton Rouge
+LA;LA73;East Baton Rouge
+LA;LA327;East Baton Rouge
+LA;LA408;East Baton Rouge
+LA;LA409;East Baton Rouge
+LA;LA410;East Baton Rouge
+LA;LA423;East Baton Rouge
+LA;LA427;East Baton Rouge
+LA;LA946;East Baton Rouge
+LA;LA948;East Baton Rouge
+LA;LA964;East Baton Rouge
+LA;LA3006;East Baton Rouge
+LA;LA3034;East Baton Rouge
+LA;LA3045;East Baton Rouge
+LA;LA3064;East Baton Rouge
+LA;LA3246;East Baton Rouge
+LA;US65;East Carroll
+LA;LA2;East Carroll
+LA;LA134;East Carroll
+LA;LA577;East Carroll
+LA;LA579;East Carroll
+LA;LA580;East Carroll
+LA;LA581;East Carroll
+LA;LA582;East Carroll
+LA;LA585;East Carroll
+LA;LA596;East Carroll
+LA;LA877;East Carroll
+LA;LA881;East Carroll
+LA;LA883-1;East Carroll
+LA;LA883-2;East Carroll
+LA;LA3181;East Carroll
+LA;US61;East Feliciana
+LA;LA10;East Feliciana
+LA;LA19;East Feliciana
+LA;LA37;East Feliciana
+LA;LA63;East Feliciana
+LA;LA67;East Feliciana
+LA;LA68;East Feliciana
+LA;LA409;East Feliciana
+LA;LA412;East Feliciana
+LA;LA422;East Feliciana
+LA;LA432;East Feliciana
+LA;LA952;East Feliciana
+LA;LA953;East Feliciana
+LA;LA954;East Feliciana
+LA;LA955;East Feliciana
+LA;LA956;East Feliciana
+LA;LA957;East Feliciana
+LA;LA958;East Feliciana
+LA;LA959;East Feliciana
+LA;LA960;East Feliciana
+LA;LA961;East Feliciana
+LA;LA963;East Feliciana
+LA;LA964;East Feliciana
+LA;LA3255;East Feliciana
+LA;I-49;Evangeline
+LA;US167;Evangeline
+LA;US190;Evangeline
+LA;LA10;Evangeline
+LA;LA13;Evangeline
+LA;LA29;Evangeline
+LA;LA95;Evangeline
+LA;LA104;Evangeline
+LA;LA106;Evangeline
+LA;LA115;Evangeline
+LA;LA181;Evangeline
+LA;LA363;Evangeline
+LA;LA374;Evangeline
+LA;LA376;Evangeline
+LA;LA748;Evangeline
+LA;LA757;Evangeline
+LA;LA758;Evangeline
+LA;LA1157-1;Evangeline
+LA;LA1158;Evangeline
+LA;LA1159;Evangeline
+LA;LA1160;Evangeline
+LA;LA1161;Evangeline
+LA;LA1162;Evangeline
+LA;LA1163;Evangeline
+LA;LA1164;Evangeline
+LA;LA1165;Evangeline
+LA;LA1166;Evangeline
+LA;LA1167;Evangeline
+LA;LA1168;Evangeline
+LA;LA1169;Evangeline
+LA;LA1171;Evangeline
+LA;LA1172;Evangeline
+LA;LA1174;Evangeline
+LA;LA3042;Evangeline
+LA;LA3096;Evangeline
+LA;LA3097;Evangeline
+LA;LA3149;Evangeline
+LA;LA3187;Evangeline
+LA;LA3247;Evangeline
+LA;LA3277;Evangeline
+LA;US425;Franklin
+LA;LA4;Franklin
+LA;LA15;Franklin
+LA;LA17;Franklin
+LA;LA128;Franklin
+LA;LA130;Franklin
+LA;LA132;Franklin
+LA;LA135;Franklin
+LA;LA555;Franklin
+LA;LA562;Franklin
+LA;LA572;Franklin
+LA;LA577;Franklin
+LA;LA578;Franklin
+LA;LA610;Franklin
+LA;LA618;Franklin
+LA;LA857;Franklin
+LA;LA858;Franklin
+LA;LA859;Franklin
+LA;LA860;Franklin
+LA;LA861;Franklin
+LA;LA862;Franklin
+LA;LA863;Franklin
+LA;LA864;Franklin
+LA;LA865;Franklin
+LA;LA866;Franklin
+LA;LA867;Franklin
+LA;LA868;Franklin
+LA;LA869;Franklin
+LA;LA870;Franklin
+LA;LA871;Franklin
+LA;LA873;Franklin
+LA;LA874;Franklin
+LA;LA875;Franklin
+LA;LA876;Franklin
+LA;LA1242;Franklin
+LA;LA3201;Franklin
+LA;LA3210;Franklin
+LA;US71;Grant
+LA;US165;Grant
+LA;US167;Grant
+LA;LA8;Grant
+LA;LA34;Grant
+LA;LA122;Grant
+LA;LA123;Grant
+LA;LA158;Grant
+LA;LA366;Grant
+LA;LA471;Grant
+LA;LA472;Grant
+LA;LA492;Grant
+LA;LA500;Grant
+LA;LA502;Grant
+LA;LA524;Grant
+LA;LA1230;Grant
+LA;LA1239-1;Grant
+LA;LA1239-2;Grant
+LA;LA1240;Grant
+LA;LA1241;Grant
+LA;LA3098;Grant
+LA;LA3130;Grant
+LA;LA3169;Grant
+LA;US90;Iberia
+LA;LA14;Iberia
+LA;LA31;Iberia
+LA;LA83;Iberia
+LA;LA85;Iberia
+LA;LA86;Iberia
+LA;LA87;Iberia
+LA;LA88;Iberia
+LA;LA89;Iberia
+LA;LA182;Iberia
+LA;LA320;Iberia
+LA;LA329;Iberia
+LA;LA330;Iberia
+LA;LA344;Iberia
+LA;LA345;Iberia
+LA;LA347;Iberia
+LA;LA668;Iberia
+LA;LA671;Iberia
+LA;LA673;Iberia
+LA;LA674;Iberia
+LA;LA675;Iberia
+LA;LA676;Iberia
+LA;LA677;Iberia
+LA;LA679;Iberia
+LA;LA680;Iberia
+LA;LA682;Iberia
+LA;LA997;Iberia
+LA;LA3156;Iberia
+LA;LA3182;Iberia
+LA;LA3195;Iberia
+LA;LA3212;Iberia
+LA;LA3242;Iberia
+LA;I-10;Iberville
+LA;LA1;Iberville
+LA;LA30;Iberville
+LA;LA69;Iberville
+LA;LA74;Iberville
+LA;LA75;Iberville
+LA;LA76;Iberville
+LA;LA77;Iberville
+LA;LA141;Iberville
+LA;LA327;Iberville
+LA;LA386;Iberville
+LA;LA404;Iberville
+LA;LA405;Iberville
+LA;LA411;Iberville
+LA;LA975;Iberville
+LA;LA977;Iberville
+LA;LA988;Iberville
+LA;LA991;Iberville
+LA;LA992-3;Iberville
+LA;LA993;Iberville
+LA;LA994;Iberville
+LA;LA995;Iberville
+LA;LA996;Iberville
+LA;LA997;Iberville
+LA;LA1148;Iberville
+LA;LA3000;Iberville
+LA;LA3001;Iberville
+LA;LA3066;Iberville
+LA;LA3115;Iberville
+LA;US167;Jackson
+LA;LA4;Jackson
+LA;LA34;Jackson
+LA;LA144;Jackson
+LA;LA145;Jackson
+LA;LA146;Jackson
+LA;LA147;Jackson
+LA;LA148;Jackson
+LA;LA155;Jackson
+LA;LA499;Jackson
+LA;LA505;Jackson
+LA;LA542;Jackson
+LA;LA548;Jackson
+LA;LA556;Jackson
+LA;LA810;Jackson
+LA;LA811;Jackson
+LA;LA813-3;Jackson
+LA;LA818;Jackson
+LA;LA1255;Jackson
+LA;LA3061;Jackson
+LA;I-10;Jefferson
+LA;US90;Jefferson
+LA;LA1;Jefferson
+LA;LA18;Jefferson
+LA;LA23;Jefferson
+LA;LA45;Jefferson
+LA;LA48;Jefferson
+LA;LA49;Jefferson
+LA;LA301;Jefferson
+LA;LA302;Jefferson
+LA;LA303;Jefferson
+LA;LA428;Jefferson
+LA;LA466;Jefferson
+LA;LA541;Jefferson
+LA;LA560-2;Jefferson
+LA;LA560-4;Jefferson
+LA;LA611-1;Jefferson
+LA;LA611-3;Jefferson
+LA;LA3017;Jefferson
+LA;LA3018;Jefferson
+LA;LA3046;Jefferson
+LA;LA3134;Jefferson
+LA;LA3152;Jefferson
+LA;LA3154;Jefferson
+LA;LA3257;Jefferson
+LA;I-10;Jefferson Davis
+LA;US90;Jefferson Davis
+LA;US165;Jefferson Davis
+LA;US190;Jefferson Davis
+LA;LA14;Jefferson Davis
+LA;LA26;Jefferson Davis
+LA;LA97;Jefferson Davis
+LA;LA99;Jefferson Davis
+LA;LA101;Jefferson Davis
+LA;LA102;Jefferson Davis
+LA;LA380;Jefferson Davis
+LA;LA382;Jefferson Davis
+LA;LA383;Jefferson Davis
+LA;LA395;Jefferson Davis
+LA;LA1126;Jefferson Davis
+LA;LA1130;Jefferson Davis
+LA;LA1131;Jefferson Davis
+LA;LA3055;Jefferson Davis
+LA;LA3056;Jefferson Davis
+LA;LA3059;Jefferson Davis
+LA;LA3086;Jefferson Davis
+LA;LA3166;Jefferson Davis
+LA;LA3258;Jefferson Davis
+LA;I-10;Lafayette
+LA;I-49;Lafayette
+LA;US90;Lafayette
+LA;US167;Lafayette
+LA;LA35;Lafayette
+LA;LA89;Lafayette
+LA;LA89-1;Lafayette
+LA;LA92;Lafayette
+LA;LA92-1;Lafayette
+LA;LA93;Lafayette
+LA;LA93-1;Lafayette
+LA;LA94;Lafayette
+LA;LA95;Lafayette
+LA;LA96;Lafayette
+LA;LA98;Lafayette
+LA;LA176;Lafayette
+LA;LA182;Lafayette
+LA;LA182-2;Lafayette
+LA;LA339;Lafayette
+LA;LA342;Lafayette
+LA;LA343;Lafayette
+LA;LA353;Lafayette
+LA;LA700;Lafayette
+LA;LA719;Lafayette
+LA;LA720;Lafayette
+LA;LA723;Lafayette
+LA;LA724;Lafayette
+LA;LA725;Lafayette
+LA;LA726;Lafayette
+LA;LA728-2;Lafayette
+LA;LA728-3;Lafayette
+LA;LA729;Lafayette
+LA;LA733;Lafayette
+LA;LA1096;Lafayette
+LA;LA1252;Lafayette
+LA;LA3025;Lafayette
+LA;LA3073;Lafayette
+LA;LA3184;Lafayette
+LA;US90;Lafourche
+LA;LA1;Lafourche
+LA;LA20;Lafourche
+LA;LA24;Lafourche
+LA;LA182;Lafourche
+LA;LA304;Lafourche
+LA;LA307;Lafourche
+LA;LA308;Lafourche
+LA;LA309;Lafourche
+LA;LA316;Lafourche
+LA;LA631;Lafourche
+LA;LA648;Lafourche
+LA;LA652;Lafourche
+LA;LA653;Lafourche
+LA;LA654;Lafourche
+LA;LA655;Lafourche
+LA;LA657;Lafourche
+LA;LA3090;Lafourche
+LA;LA3161;Lafourche
+LA;LA3162;Lafourche
+LA;LA3185;Lafourche
+LA;LA3235;Lafourche
+LA;LA3266;Lafourche
+LA;US84;La Salle
+LA;US165;La Salle
+LA;LA8;La Salle
+LA;LA28;La Salle
+LA;LA124;La Salle
+LA;LA125;La Salle
+LA;LA126;La Salle
+LA;LA127;La Salle
+LA;LA459;La Salle
+LA;LA460;La Salle
+LA;LA500;La Salle
+LA;LA503;La Salle
+LA;LA506;La Salle
+LA;LA770;La Salle
+LA;LA771;La Salle
+LA;LA772;La Salle
+LA;LA773;La Salle
+LA;LA774;La Salle
+LA;LA776;La Salle
+LA;LA777;La Salle
+LA;LA778;La Salle
+LA;LA3071;La Salle
+LA;LA3104;La Salle
+LA;LA3259;La Salle
+LA;I-20;Lincoln
+LA;US63;Lincoln
+LA;US80;Lincoln
+LA;US167;Lincoln
+LA;LA33;Lincoln
+LA;LA145;Lincoln
+LA;LA146;Lincoln
+LA;LA147;Lincoln
+LA;LA149;Lincoln
+LA;LA150;Lincoln
+LA;LA151;Lincoln
+LA;LA152;Lincoln
+LA;LA507;Lincoln
+LA;LA544;Lincoln
+LA;LA545;Lincoln
+LA;LA556;Lincoln
+LA;LA563;Lincoln
+LA;LA797;Lincoln
+LA;LA815;Lincoln
+LA;LA818;Lincoln
+LA;LA820;Lincoln
+LA;LA821;Lincoln
+LA;LA822;Lincoln
+LA;LA823;Lincoln
+LA;LA3005;Lincoln
+LA;LA3012;Lincoln
+LA;LA3061;Lincoln
+LA;LA3072;Lincoln
+LA;LA3074;Lincoln
+LA;I-12;Livingston
+LA;US190;Livingston
+LA;LA16;Livingston
+LA;LA22;Livingston
+LA;LA40;Livingston
+LA;LA42;Livingston
+LA;LA43;Livingston
+LA;LA63;Livingston
+LA;LA64;Livingston
+LA;LA441;Livingston
+LA;LA442;Livingston
+LA;LA444;Livingston
+LA;LA447;Livingston
+LA;LA449;Livingston
+LA;LA1019;Livingston
+LA;LA1020;Livingston
+LA;LA1022;Livingston
+LA;LA1023;Livingston
+LA;LA1024;Livingston
+LA;LA1025;Livingston
+LA;LA1026;Livingston
+LA;LA1027;Livingston
+LA;LA1028;Livingston
+LA;LA1029;Livingston
+LA;LA1030;Livingston
+LA;LA1031;Livingston
+LA;LA1032;Livingston
+LA;LA1033;Livingston
+LA;LA1034;Livingston
+LA;LA1035-1;Livingston
+LA;LA1035-2;Livingston
+LA;LA1035-3;Livingston
+LA;LA1035-4;Livingston
+LA;LA1036;Livingston
+LA;LA1037;Livingston
+LA;LA1038;Livingston
+LA;LA1039;Livingston
+LA;LA1040;Livingston
+LA;LA1064;Livingston
+LA;LA1259;Livingston
+LA;LA3002;Livingston
+LA;LA3003;Livingston
+LA;I-20;Madison
+LA;US65;Madison
+LA;US80;Madison
+LA;LA577;Madison
+LA;LA579;Madison
+LA;LA601;Madison
+LA;LA602-1;Madison
+LA;LA602-2;Madison
+LA;LA603;Madison
+LA;LA610;Madison
+LA;LA860;Madison
+LA;LA3202;Madison
+LA;LA3218;Madison
+LA;US165;Morehouse
+LA;US425;Morehouse
+LA;LA2;Morehouse
+LA;LA133;Morehouse
+LA;LA134;Morehouse
+LA;LA138;Morehouse
+LA;LA139;Morehouse
+LA;LA140;Morehouse
+LA;LA142;Morehouse
+LA;LA554;Morehouse
+LA;LA590;Morehouse
+LA;LA591;Morehouse
+LA;LA592;Morehouse
+LA;LA593;Morehouse
+LA;LA599;Morehouse
+LA;LA830-1;Morehouse
+LA;LA830-2;Morehouse
+LA;LA830-3;Morehouse
+LA;LA830-4;Morehouse
+LA;LA830-6;Morehouse
+LA;LA833;Morehouse
+LA;LA834;Morehouse
+LA;LA835;Morehouse
+LA;LA1257;Morehouse
+LA;LA1268;Morehouse
+LA;I-49;Natchitoches
+LA;US71;Natchitoches
+LA;US84;Natchitoches
+LA;LA1;Natchitoches
+LA;LA6;Natchitoches
+LA;LA9;Natchitoches
+LA;LA117;Natchitoches
+LA;LA118;Natchitoches
+LA;LA119;Natchitoches
+LA;LA120;Natchitoches
+LA;LA126;Natchitoches
+LA;LA153;Natchitoches
+LA;LA155;Natchitoches
+LA;LA156;Natchitoches
+LA;LA174;Natchitoches
+LA;LA478;Natchitoches
+LA;LA479;Natchitoches
+LA;LA480;Natchitoches
+LA;LA484;Natchitoches
+LA;LA485;Natchitoches
+LA;LA486;Natchitoches
+LA;LA487;Natchitoches
+LA;LA490;Natchitoches
+LA;LA491;Natchitoches
+LA;LA493;Natchitoches
+LA;LA494;Natchitoches
+LA;LA495;Natchitoches
+LA;LA504;Natchitoches
+LA;LA1220;Natchitoches
+LA;LA1221;Natchitoches
+LA;LA1222;Natchitoches
+LA;LA1223;Natchitoches
+LA;LA1224;Natchitoches
+LA;LA1225;Natchitoches
+LA;LA1226;Natchitoches
+LA;LA1227;Natchitoches
+LA;LA1265;Natchitoches
+LA;LA3163;Natchitoches
+LA;LA3191;Natchitoches
+LA;LA3278;Natchitoches
+LA;LA3279;Natchitoches
+LA;I-10;Orleans
+LA;I-510;Orleans
+LA;I-610;Orleans
+LA;US11;Orleans
+LA;US61;Orleans
+LA;US90;Orleans
+LA;LA47;Orleans
+LA;LA406;Orleans
+LA;LA407;Orleans
+LA;LA428;Orleans
+LA;LA611-1;Orleans
+LA;LA611-3;Orleans
+LA;LA611-9;Orleans
+LA;LA3021;Orleans
+LA;I-20;Ouachita
+LA;US80;Ouachita
+LA;US165;Ouachita
+LA;LA2;Ouachita
+LA;LA15;Ouachita
+LA;LA34;Ouachita
+LA;LA134;Ouachita
+LA;LA136;Ouachita
+LA;LA139;Ouachita
+LA;LA143;Ouachita
+LA;LA144;Ouachita
+LA;LA151;Ouachita
+LA;LA546;Ouachita
+LA;LA553;Ouachita
+LA;LA557;Ouachita
+LA;LA594;Ouachita
+LA;LA616;Ouachita
+LA;LA617;Ouachita
+LA;LA840-1;Ouachita
+LA;LA840-6;Ouachita
+LA;LA837;Ouachita
+LA;LA838;Ouachita
+LA;LA841;Ouachita
+LA;LA3033;Ouachita
+LA;LA3249;Ouachita
+LA;LA23;Plaquemines
+LA;LA39;Plaquemines
+LA;LA1261;Plaquemines
+LA;LA3017;Plaquemines
+LA;LA3137;Plaquemines
+LA;US190;Pointe Coupee
+LA;LA1;Pointe Coupee
+LA;LA10;Pointe Coupee
+LA;LA15;Pointe Coupee
+LA;LA77;Pointe Coupee
+LA;LA78;Pointe Coupee
+LA;LA81;Pointe Coupee
+LA;LA411;Pointe Coupee
+LA;LA413;Pointe Coupee
+LA;LA414;Pointe Coupee
+LA;LA415;Pointe Coupee
+LA;LA416;Pointe Coupee
+LA;LA417;Pointe Coupee
+LA;LA418;Pointe Coupee
+LA;LA419;Pointe Coupee
+LA;LA420;Pointe Coupee
+LA;LA970;Pointe Coupee
+LA;LA971;Pointe Coupee
+LA;LA972;Pointe Coupee
+LA;LA973;Pointe Coupee
+LA;LA975;Pointe Coupee
+LA;LA976;Pointe Coupee
+LA;LA977;Pointe Coupee
+LA;LA978;Pointe Coupee
+LA;LA979;Pointe Coupee
+LA;LA981;Pointe Coupee
+LA;LA982;Pointe Coupee
+LA;LA983;Pointe Coupee
+LA;LA3050;Pointe Coupee
+LA;I-49;Rapides
+LA;US71;Rapides
+LA;US165;Rapides
+LA;US167;Rapides
+LA;LA1;Rapides
+LA;LA8;Rapides
+LA;LA28;Rapides
+LA;LA107;Rapides
+LA;LA112;Rapides
+LA;LA113;Rapides
+LA;LA115;Rapides
+LA;LA116;Rapides
+LA;LA119;Rapides
+LA;LA121;Rapides
+LA;LA181;Rapides
+LA;LA454;Rapides
+LA;LA456;Rapides
+LA;LA457;Rapides
+LA;LA461;Rapides
+LA;LA462;Rapides
+LA;LA463;Rapides
+LA;LA465;Rapides
+LA;LA470;Rapides
+LA;LA488;Rapides
+LA;LA496;Rapides
+LA;LA497;Rapides
+LA;LA498;Rapides
+LA;LA623;Rapides
+LA;LA1177;Rapides
+LA;LA1198;Rapides
+LA;LA1199;Rapides
+LA;LA1200;Rapides
+LA;LA1201;Rapides
+LA;LA1203;Rapides
+LA;LA1204;Rapides
+LA;LA1205;Rapides
+LA;LA1206;Rapides
+LA;LA1207;Rapides
+LA;LA1208-1;Rapides
+LA;LA1208-2;Rapides
+LA;LA1208-3;Rapides
+LA;LA1243;Rapides
+LA;LA1250;Rapides
+LA;LA1254;Rapides
+LA;LA1258;Rapides
+LA;LA3054;Rapides
+LA;LA3100;Rapides
+LA;LA3128;Rapides
+LA;LA3144;Rapides
+LA;LA3170;Rapides
+LA;LA3225;Rapides
+LA;LA3250;Rapides
+LA;LA3265;Rapides
+LA;US71;Red River
+LA;US84;Red River
+LA;US371;Red River
+LA;LA1;Red River
+LA;LA4;Red River
+LA;LA155;Red River
+LA;LA174;Red River
+LA;LA177;Red River
+LA;LA480;Red River
+LA;LA507;Red River
+LA;LA509;Red River
+LA;LA514;Red River
+LA;LA515;Red River
+LA;LA783;Red River
+LA;LA784;Red River
+LA;LA786;Red River
+LA;LA787;Red River
+LA;LA788;Red River
+LA;I-20;Richland
+LA;US80;Richland
+LA;US425;Richland
+LA;LA133;Richland
+LA;LA134;Richland
+LA;LA135;Richland
+LA;LA183;Richland
+LA;LA561;Richland
+LA;LA576;Richland
+LA;LA583;Richland
+LA;LA584;Richland
+LA;LA585;Richland
+LA;LA595;Richland
+LA;LA609;Richland
+LA;LA622;Richland
+LA;LA852;Richland
+LA;LA854;Richland
+LA;LA855;Richland
+LA;LA856;Richland
+LA;LA3048;Richland
+LA;US171;Sabine
+LA;LA6;Sabine
+LA;LA118;Sabine
+LA;LA120;Sabine
+LA;LA174;Sabine
+LA;LA175;Sabine
+LA;LA191;Sabine
+LA;LA392;Sabine
+LA;LA473;Sabine
+LA;LA474;Sabine
+LA;LA475;Sabine
+LA;LA476;Sabine
+LA;LA482;Sabine
+LA;LA483;Sabine
+LA;LA1215;Sabine
+LA;LA1216;Sabine
+LA;LA1217;Sabine
+LA;LA1218;Sabine
+LA;LA3118;Sabine
+LA;LA3229;Sabine
+LA;LA39;St. Bernard
+LA;LA46;St. Bernard
+LA;LA47;St. Bernard
+LA;LA300;St. Bernard
+LA;LA624;St. Bernard
+LA;LA625;St. Bernard
+LA;LA1245;St. Bernard
+LA;I-10;St. Charles
+LA;I-310;St. Charles
+LA;US61;St. Charles
+LA;US90;St. Charles
+LA;LA18;St. Charles
+LA;LA48;St. Charles
+LA;LA50;St. Charles
+LA;LA52;St. Charles
+LA;LA306;St. Charles
+LA;LA626;St. Charles
+LA;LA627;St. Charles
+LA;LA628;St. Charles
+LA;LA631;St. Charles
+LA;LA632;St. Charles
+LA;LA633;St. Charles
+LA;LA635;St. Charles
+LA;LA3060;St. Charles
+LA;LA3127;St. Charles
+LA;LA3141;St. Charles
+LA;LA3142;St. Charles
+LA;LA3160;St. Charles
+LA;LA10;St. Helena
+LA;LA16;St. Helena
+LA;LA37;St. Helena
+LA;LA38;St. Helena
+LA;LA43;St. Helena
+LA;LA63;St. Helena
+LA;LA432;St. Helena
+LA;LA440;St. Helena
+LA;LA441;St. Helena
+LA;LA448;St. Helena
+LA;LA449;St. Helena
+LA;LA1036;St. Helena
+LA;LA1041;St. Helena
+LA;LA1042;St. Helena
+LA;LA1043;St. Helena
+LA;LA1044;St. Helena
+LA;LA1045;St. Helena
+LA;LA1046;St. Helena
+LA;LA1047;St. Helena
+LA;LA1048;St. Helena
+LA;I-10;St. James
+LA;US61;St. James
+LA;LA18;St. James
+LA;LA20;St. James
+LA;LA44;St. James
+LA;LA70;St. James
+LA;LA641;St. James
+LA;LA642;St. James
+LA;LA643;St. James
+LA;LA644;St. James
+LA;LA3125;St. James
+LA;LA3127;St. James
+LA;LA3193;St. James
+LA;LA3213;St. James
+LA;LA3214;St. James
+LA;LA3219;St. James
+LA;LA3274;St. James
+LA;I-10;St. John the Baptist
+LA;I-55;St. John the Baptist
+LA;US51;St. John the Baptist
+LA;US61;St. John the Baptist
+LA;LA18;St. John the Baptist
+LA;LA44;St. John the Baptist
+LA;LA53;St. John the Baptist
+LA;LA54;St. John the Baptist
+LA;LA628;St. John the Baptist
+LA;LA636-1;St. John the Baptist
+LA;LA636-3;St. John the Baptist
+LA;LA637;St. John the Baptist
+LA;LA640;St. John the Baptist
+LA;LA643;St. John the Baptist
+LA;LA3127;St. John the Baptist
+LA;LA3179;St. John the Baptist
+LA;LA3188;St. John the Baptist
+LA;LA3213;St. John the Baptist
+LA;LA3217;St. John the Baptist
+LA;LA3224;St. John the Baptist
+LA;I-49;St. Landry
+LA;US71;St. Landry
+LA;US190;St. Landry
+LA;LA10;St. Landry
+LA;LA13;St. Landry
+LA;LA29;St. Landry
+LA;LA31;St. Landry
+LA;LA35;St. Landry
+LA;LA91;St. Landry
+LA;LA93;St. Landry
+LA;LA95;St. Landry
+LA;LA103;St. Landry
+LA;LA104;St. Landry
+LA;LA105;St. Landry
+LA;LA107;St. Landry
+LA;LA178;St. Landry
+LA;LA182;St. Landry
+LA;LA343;St. Landry
+LA;LA347;St. Landry
+LA;LA356;St. Landry
+LA;LA357;St. Landry
+LA;LA358;St. Landry
+LA;LA359;St. Landry
+LA;LA360;St. Landry
+LA;LA361;St. Landry
+LA;LA363;St. Landry
+LA;LA367;St. Landry
+LA;LA686;St. Landry
+LA;LA740;St. Landry
+LA;LA741;St. Landry
+LA;LA742;St. Landry
+LA;LA743;St. Landry
+LA;LA744;St. Landry
+LA;LA745;St. Landry
+LA;LA746;St. Landry
+LA;LA748;St. Landry
+LA;LA749;St. Landry
+LA;LA751;St. Landry
+LA;LA752;St. Landry
+LA;LA754;St. Landry
+LA;LA755;St. Landry
+LA;LA757;St. Landry
+LA;LA758;St. Landry
+LA;LA759;St. Landry
+LA;LA760-1;St. Landry
+LA;LA760-2;St. Landry
+LA;LA761;St. Landry
+LA;LA3043;St. Landry
+LA;LA3116;St. Landry
+LA;LA3173;St. Landry
+LA;LA3174;St. Landry
+LA;LA3178;St. Landry
+LA;LA3233;St. Landry
+LA;LA3253;St. Landry
+LA;LA3254;St. Landry
+LA;I-10;St. Martin
+LA;US90;St. Martin
+LA;LA31;St. Martin
+LA;LA70;St. Martin
+LA;LA92;St. Martin
+LA;LA92-1;St. Martin
+LA;LA93;St. Martin
+LA;LA94;St. Martin
+LA;LA96;St. Martin
+LA;LA182;St. Martin
+LA;LA321;St. Martin
+LA;LA328;St. Martin
+LA;LA336-1;St. Martin
+LA;LA341;St. Martin
+LA;LA345;St. Martin
+LA;LA347;St. Martin
+LA;LA349;St. Martin
+LA;LA350;St. Martin
+LA;LA351;St. Martin
+LA;LA352;St. Martin
+LA;LA353;St. Martin
+LA;LA355;St. Martin
+LA;LA678;St. Martin
+LA;LA679;St. Martin
+LA;LA680;St. Martin
+LA;LA686;St. Martin
+LA;LA737;St. Martin
+LA;LA975;St. Martin
+LA;LA997;St. Martin
+LA;LA3039;St. Martin
+LA;LA3083;St. Martin
+LA;LA3177;St. Martin
+LA;US90;St. Mary
+LA;LA70;St. Mary
+LA;LA83;St. Mary
+LA;LA87;St. Mary
+LA;LA182;St. Mary
+LA;LA317;St. Mary
+LA;LA318;St. Mary
+LA;LA319;St. Mary
+LA;LA322;St. Mary
+LA;LA323;St. Mary
+LA;LA324;St. Mary
+LA;LA326;St. Mary
+LA;LA668;St. Mary
+LA;LA670;St. Mary
+LA;LA3069;St. Mary
+LA;LA3211;St. Mary
+LA;LA3215;St. Mary
+LA;I-10;St. Tammany
+LA;I-12;St. Tammany
+LA;I-59;St. Tammany
+LA;US11;St. Tammany
+LA;US90;St. Tammany
+LA;US190;St. Tammany
+LA;LA16;St. Tammany
+LA;LA21;St. Tammany
+LA;LA22;St. Tammany
+LA;LA25;St. Tammany
+LA;LA36;St. Tammany
+LA;LA40;St. Tammany
+LA;LA41;St. Tammany
+LA;LA59;St. Tammany
+LA;LA433;St. Tammany
+LA;LA434;St. Tammany
+LA;LA435;St. Tammany
+LA;LA437;St. Tammany
+LA;LA450;St. Tammany
+LA;LA1077;St. Tammany
+LA;LA1078;St. Tammany
+LA;LA1081;St. Tammany
+LA;LA1082;St. Tammany
+LA;LA1083;St. Tammany
+LA;LA1084;St. Tammany
+LA;LA1085;St. Tammany
+LA;LA1088;St. Tammany
+LA;LA1090;St. Tammany
+LA;LA1091;St. Tammany
+LA;LA1093-1;St. Tammany
+LA;LA1093-3;St. Tammany
+LA;LA1129;St. Tammany
+LA;LA3081;St. Tammany
+LA;LA3241;St. Tammany
+LA;I-12;Tangipahoa
+LA;I-55;Tangipahoa
+LA;US51;Tangipahoa
+LA;US190;Tangipahoa
+LA;LA10;Tangipahoa
+LA;LA16;Tangipahoa
+LA;LA22;Tangipahoa
+LA;LA38;Tangipahoa
+LA;LA40;Tangipahoa
+LA;LA42;Tangipahoa
+LA;LA440;Tangipahoa
+LA;LA442;Tangipahoa
+LA;LA443;Tangipahoa
+LA;LA445;Tangipahoa
+LA;LA1040;Tangipahoa
+LA;LA1045;Tangipahoa
+LA;LA1046;Tangipahoa
+LA;LA1048;Tangipahoa
+LA;LA1049;Tangipahoa
+LA;LA1050;Tangipahoa
+LA;LA1051;Tangipahoa
+LA;LA1053;Tangipahoa
+LA;LA1054;Tangipahoa
+LA;LA1055;Tangipahoa
+LA;LA1056;Tangipahoa
+LA;LA1057;Tangipahoa
+LA;LA1058;Tangipahoa
+LA;LA1061;Tangipahoa
+LA;LA1062;Tangipahoa
+LA;LA1063;Tangipahoa
+LA;LA1064;Tangipahoa
+LA;LA1065;Tangipahoa
+LA;LA1249;Tangipahoa
+LA;LA3158;Tangipahoa
+LA;LA3234;Tangipahoa
+LA;US65;Tensas
+LA;LA4;Tensas
+LA;LA128;Tensas
+LA;LA566;Tensas
+LA;LA568;Tensas
+LA;LA569;Tensas
+LA;LA570;Tensas
+LA;LA571;Tensas
+LA;LA573;Tensas
+LA;LA575;Tensas
+LA;LA604;Tensas
+LA;LA605;Tensas
+LA;LA606;Tensas
+LA;LA607;Tensas
+LA;LA608;Tensas
+LA;LA887;Tensas
+LA;LA888;Tensas
+LA;LA892;Tensas
+LA;LA896;Tensas
+LA;LA897-1;Tensas
+LA;LA897-2;Tensas
+LA;LA897-3;Tensas
+LA;LA897-4;Tensas
+LA;LA897-5;Tensas
+LA;LA897-6;Tensas
+LA;LA898;Tensas
+LA;LA1079;Tensas
+LA;LA3009;Tensas
+LA;LA3024;Tensas
+LA;LA3044;Tensas
+LA;LA3078;Tensas
+LA;LA3209;Tensas
+LA;LA3252;Tensas
+LA;US90;Terrebonne
+LA;LA20;Terrebonne
+LA;LA24;Terrebonne
+LA;LA55;Terrebonne
+LA;LA56;Terrebonne
+LA;LA57;Terrebonne
+LA;LA58;Terrebonne
+LA;LA182;Terrebonne
+LA;LA309;Terrebonne
+LA;LA311;Terrebonne
+LA;LA312;Terrebonne
+LA;LA315;Terrebonne
+LA;LA316;Terrebonne
+LA;LA648;Terrebonne
+LA;LA659;Terrebonne
+LA;LA660;Terrebonne
+LA;LA661;Terrebonne
+LA;LA662;Terrebonne
+LA;LA664;Terrebonne
+LA;LA665;Terrebonne
+LA;LA3011;Terrebonne
+LA;LA3040;Terrebonne
+LA;LA3197;Terrebonne
+LA;US63;Union
+LA;US167;Union
+LA;LA2;Union
+LA;LA15;Union
+LA;LA33;Union
+LA;LA143;Union
+LA;LA145;Union
+LA;LA151;Union
+LA;LA348;Union
+LA;LA549;Union
+LA;LA550;Union
+LA;LA551;Union
+LA;LA552;Union
+LA;LA558;Union
+LA;LA826;Union
+LA;LA827;Union
+LA;LA828;Union
+LA;LA3121;Union
+LA;LA3281;Union
+LA;US167;Vermillion
+LA;LA13;Vermillion
+LA;LA14;Vermillion
+LA;LA35;Vermillion
+LA;LA82;Vermillion
+LA;LA89;Vermillion
+LA;LA91;Vermillion
+LA;LA92;Vermillion
+LA;LA330;Vermillion
+LA;LA331;Vermillion
+LA;LA332;Vermillion
+LA;LA333;Vermillion
+LA;LA335;Vermillion
+LA;LA338;Vermillion
+LA;LA339;Vermillion
+LA;LA343;Vermillion
+LA;LA682;Vermillion
+LA;LA685;Vermillion
+LA;LA690;Vermillion
+LA;LA694;Vermillion
+LA;LA695;Vermillion
+LA;LA696;Vermillion
+LA;LA697;Vermillion
+LA;LA699;Vermillion
+LA;LA700;Vermillion
+LA;LA705;Vermillion
+LA;LA708;Vermillion
+LA;LA711;Vermillion
+LA;LA712;Vermillion
+LA;LA713;Vermillion
+LA;LA714;Vermillion
+LA;LA717;Vermillion
+LA;LA1246;Vermillion
+LA;LA1266;Vermillion
+LA;LA3093;Vermillion
+LA;LA3143;Vermillion
+LA;LA3147;Vermillion
+LA;LA3267;Vermillion
+LA;US171;Vernon
+LA;LA8;Vernon
+LA;LA10;Vernon
+LA;LA28;Vernon
+LA;LA111;Vernon
+LA;LA113;Vernon
+LA;LA117;Vernon
+LA;LA121;Vernon
+LA;LA184;Vernon
+LA;LA377;Vernon
+LA;LA392;Vernon
+LA;LA399;Vernon
+LA;LA458;Vernon
+LA;LA463;Vernon
+LA;LA464;Vernon
+LA;LA465;Vernon
+LA;LA467;Vernon
+LA;LA468;Vernon
+LA;LA469;Vernon
+LA;LA473;Vernon
+LA;LA489;Vernon
+LA;LA1146;Vernon
+LA;LA1211;Vernon
+LA;LA1213;Vernon
+LA;LA3226;Vernon
+LA;LA10;Washington
+LA;LA16;Washington
+LA;LA21;Washington
+LA;LA25;Washington
+LA;LA38;Washington
+LA;LA60;Washington
+LA;LA62;Washington
+LA;LA424;Washington
+LA;LA430;Washington
+LA;LA436;Washington
+LA;LA436-1;Washington
+LA;LA437;Washington
+LA;LA438;Washington
+LA;LA439;Washington
+LA;LA440;Washington
+LA;LA450;Washington
+LA;LA1055;Washington
+LA;LA1056;Washington
+LA;LA1069;Washington
+LA;LA1070;Washington
+LA;LA1071;Washington
+LA;LA1072;Washington
+LA;LA1073;Washington
+LA;LA1074;Washington
+LA;LA1075;Washington
+LA;LA3124;Washington
+LA;I-20;Webster
+LA;US79;Webster
+LA;US80;Webster
+LA;US371;Webster
+LA;LA2;Webster
+LA;LA157;Webster
+LA;LA159;Webster
+LA;LA160;Webster
+LA;LA163;Webster
+LA;LA164;Webster
+LA;LA518;Webster
+LA;LA521;Webster
+LA;LA527;Webster
+LA;LA528;Webster
+LA;LA531;Webster
+LA;LA532;Webster
+LA;LA615;Webster
+LA;LA792;Webster
+LA;LA793;Webster
+LA;LA802;Webster
+LA;LA803-1;Webster
+LA;LA808;Webster
+LA;LA3008;Webster
+LA;LA3014;Webster
+LA;I-10;West Baton Rouge
+LA;US190;West Baton Rouge
+LA;LA1;West Baton Rouge
+LA;LA76;West Baton Rouge
+LA;LA413;West Baton Rouge
+LA;LA415;West Baton Rouge
+LA;LA620;West Baton Rouge
+LA;LA982;West Baton Rouge
+LA;LA983;West Baton Rouge
+LA;LA984;West Baton Rouge
+LA;LA985;West Baton Rouge
+LA;LA986;West Baton Rouge
+LA;LA987-1;West Baton Rouge
+LA;LA987-2*;West Baton Rouge
+LA;LA987-3;West Baton Rouge
+LA;LA987-4;West Baton Rouge
+LA;LA987-5;West Baton Rouge
+LA;LA987-6;West Baton Rouge
+LA;LA988;West Baton Rouge
+LA;LA989-1;West Baton Rouge
+LA;LA989-2;West Baton Rouge
+LA;LA990;West Baton Rouge
+LA;LA1145;West Baton Rouge
+LA;LA1269;West Baton Rouge
+LA;LA3091;West Baton Rouge
+LA;LA3237;West Baton Rouge
+LA;LA2;West Carroll
+LA;LA17;West Carroll
+LA;LA134;West Carroll
+LA;LA577;West Carroll
+LA;LA582;West Carroll
+LA;LA585;West Carroll
+LA;LA586;West Carroll
+LA;LA587;West Carroll
+LA;LA588;West Carroll
+LA;LA589;West Carroll
+LA;LA597;West Carroll
+LA;LA835;West Carroll
+LA;LA877;West Carroll
+LA;LA878;West Carroll
+LA;LA879;West Carroll
+LA;LA880;West Carroll
+LA;US61;West Feliciana
+LA;LA10;West Feliciana
+LA;LA15;West Feliciana
+LA;LA66;West Feliciana
+LA;LA421;West Feliciana
+LA;LA964;West Feliciana
+LA;LA965;West Feliciana
+LA;LA966;West Feliciana
+LA;LA967;West Feliciana
+LA;LA968;West Feliciana
+LA;LA969;West Feliciana
+LA;US71;Winn
+LA;US84;Winn
+LA;US167;Winn
+LA;LA34;Winn
+LA;LA124;Winn
+LA;LA126;Winn
+LA;LA127;Winn
+LA;LA156;Winn
+LA;LA471;Winn
+LA;LA472;Winn
+LA;LA477;Winn
+LA;LA499;Winn
+LA;LA500;Winn
+LA;LA501;Winn
+LA;LA505;Winn
+LA;LA1228;Winn
+LA;LA1229;Winn
+LA;LA1230;Winn
+LA;LA1231-1;Winn
+LA;LA1231-2;Winn
+LA;LA1232;Winn
+LA;LA1233;Winn
+LA;LA1234;Winn
+LA;LA1235;Winn
+LA;LA1236;Winn
+LA;LA1237;Winn
+LA;LA1238;Winn
+LA;LA3136;Winn
