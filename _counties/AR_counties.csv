@@ -77,7 +77,6 @@ AR;AR123;Boone
 AR;AR206;Boone
 AR;AR281;Boone
 AR;AR392;Boone
-AR;AR396;Boone
 AR;AR397;Boone
 AR;AR980;Boone
 AR;US63;Bradley
@@ -123,7 +122,7 @@ AR;AR208;Chicot
 AR;AR209;Chicot
 AR;AR257;Chicot
 AR;AR293;Chicot
-AR;AR922;Chicot
+AR;AR722;Chicot
 AR;AR980;Chicot
 AR;I-30;Clark
 AR;US67;Clark
@@ -197,7 +196,6 @@ AR;AR92;Conway
 AR;AR95;Conway
 AR;AR113;Conway
 AR;AR124;Conway
-AR;AR132;Conway
 AR;AR154;Conway
 AR;AR155;Conway
 AR;AR213;Conway
@@ -312,7 +310,7 @@ AR;AR172;Drew
 AR;AR277;Drew
 AR;AR293;Drew
 AR;AR530;Drew
-AR;AR922;Drew
+AR;AR722;Drew
 AR;AR980;Drew
 AR;I-40;Faulkner
 AR;US64;Faulkner
@@ -863,7 +861,6 @@ AR;AR365;Pulaski
 AR;AR367;Pulaski
 AR;AR386;Pulaski
 AR;AR391;Pulaski
-AR;AR440;Pulaski
 AR;US62;Randolph
 AR;US67;Randolph
 AR;AR34;Randolph
